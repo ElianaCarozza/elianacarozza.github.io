@@ -24,19 +24,19 @@ author:
   avatar           : "elianacarozza.png"
   name             : "Eliana Carozza"
   pronouns         : # example: "she/her"  
-  bio              : "Phd student in post quantum cryptography, specialized in zero knowledge proof of knowledge, code based signature and MPC protocols"
+  bio              : "Phd student in post quantum cryptography"
   location         : "Paris"
   employer         : "IRIF, Paris University"
   uri              : # URL
   email            : "carozza@irif.fr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
