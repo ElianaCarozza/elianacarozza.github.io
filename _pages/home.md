@@ -7,21 +7,9 @@ author_profile: true
 
 # About Me
 
-Hello! I am Dr. Carozza, a researcher in [inserisci qui il tuo campo di studio o interesse]. My work primarily focuses on [inserisci qui il tuo focus di ricerca o ambito professionale].
+I am a researcher at [IRIF](http://www.irif.fr) (Institut de Recherche en Informatique Fondamentale), Université Paris Cité, focusing on post-quantum cryptography. I am currently pursuing a PhD in Computer Science, concentrating on code-based advanced primitives, which offer promising solutions for securing data in the quantum era.
 
 ## Research Interests
 
-- [Inserisci qui i tuoi interessi di ricerca o professionali]
-- [Altro interesse o campo]
-
-## Publications
-
-Here are some of my key publications:
-
-- **[Titolo della pubblicazione 1]** - Descrizione breve o link
-- **[Titolo della pubblicazione 2]** - Descrizione breve o link
-- [Aggiungi altre pubblicazioni o lavori rilevanti]
-
-## Contact
-
-Feel free to reach out to me at [tuo indirizzo email o informazioni di contatto].
+My primary research interests include signature schemes, zero-knowledge proofs of knowledge, and MPC in the head, addressing both foundational and practical aspects of cryptography.
+For an overview of my work, explore my [publication page](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?hl=it&user=L7Ld9SUAAAAJ). 
