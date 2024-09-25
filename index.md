@@ -1,5 +1,5 @@
 ---
-layout: default  # Assicurati che il layout 'default' includa la sidebar
+layout: archive
 title: "Benvenuti"
 permalink: /
 author_profile: true
