@@ -2,6 +2,7 @@
 layout: default  # Assicurati che il layout 'default' includa la sidebar
 title: "Benvenuti"
 permalink: /
+author_profile: true
 ---
 
 <div class="homepage-content">
