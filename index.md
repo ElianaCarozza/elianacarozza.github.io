@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Benvenuti"
+permalink: /
 ---
 
 # Benvenuti nel mio sito!
