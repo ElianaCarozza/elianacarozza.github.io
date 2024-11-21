@@ -8,7 +8,7 @@ author_profile: true
 # About Me
 I am a researcher at [IRIF](http://www.irif.fr) (Institut de Recherche en Informatique Fondamentale), Université Paris Cité, specializing in **post-quantum cryptography**. Currently, I am pursuing a PhD in Computer Science, with a focus on **code-based advanced cryptographic primitives**, which offer promising solutions for securing data in the quantum era.
 
-In addition to my research, I have extensive experience in teaching, having lectured on advanced topics in mathematics and computer science. I am also proficient in programming languages such as **Python, C**, and **Java**, with practical expertise in implementing cryptographic algorithms, honed during a **five-month internship** at [CryptoExperts](https://www.cryptoexperts.com/).
+In addition to my research, I have extensive experience in teaching, having lectured on advanced topics in mathematics and computer science. I am also proficient in programming languages such as **Python, C**, and **Java**, with practical expertise in **implementing cryptographic algorithms**, honed during a five-month internship at [CryptoExperts](https://www.cryptoexperts.com/).
 
 # Research Interests
 My primary research focuses on **digital signature schemes**, with particular emphasis on:
