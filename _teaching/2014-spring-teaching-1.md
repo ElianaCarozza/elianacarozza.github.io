@@ -3,7 +3,7 @@ title: "Assistant"
 collection: teaching
 type: "Undergraduate course"
 venue: "Università degli Studi Roma 3, Mathematic Department"
-date: 2020/2021
+date: 01/09/2020
 location: "Rome, Italy"
 ---
 
