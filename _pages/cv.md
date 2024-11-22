@@ -7,4 +7,4 @@ author_profile: true
 
 # My Curriculum Vitae
 
-[Click here to download my CV (PDF)](https://elianacarozza.github.io/assets/files/CV_eliana.pdf)
+[Click here to download my CV (PDF)](https://elianacarozza.github.io/assets/files/CV.pdf)
