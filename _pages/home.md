@@ -14,9 +14,9 @@ In addition to my research, I have extensive experience in teaching, having lect
 My primary research focuses on **digital signature schemes**, with particular emphasis on:
 
 - **Code-Based Signature Schemes**: Developing efficient, secure, and quantum-resistant constructions based on the **Regular Syndrome Decoding (RSD)** problem.
-- **Threshold and Multisignature Schemes**: Extending classical signature schemes to enable collaborative signing while ensuring both security and scalability.
-- **Zero-Knowledge Proofs of Knowledge (ZKPoK)**: Designing compact and efficient ZK proofs tailored to the needs of code-based cryptography.
-- **MPC-in-the-Head Protocols**: Innovating signature schemes by integrating Multi-Party Computation (MPC) techniques, enabling lightweight implementations with robust security guarantees.
+- **Threshold Signature Schemes**: Extending classical signature schemes to enable collaborative signing while ensuring both security and efficiency.
+- **Zero-Knowledge Proofs of Knowledge (ZKPoK)**: Designing compact and efficient ZK proof of knowledge in code-based settings.
+- **MPC-in-the-Head Protocols**: Innovating signature schemes by integrating Multi-Party Computation (MPC) techniques.
 
 For an overview of my work, explore my [publication page](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?hl=it&user=L7Ld9SUAAAAJ). 
 
