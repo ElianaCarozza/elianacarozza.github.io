@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/
 date: 2024-11-21
 published_at: 'ePrint'
-paperurl: elianacarozza.github.io/files/Multisignature.pdf
+paperurl: https://elianacarozza.github.io/files/Multisignature.pdf
 excerpt: |
   We investigate the feasibility of constructing threshold signature schemes from the MPC-in-the-head paradigm. Our work addresses the significant challenge posed by recent impossibility results (Doerner et al., Crypto’24), which establish inherent barriers to efficient thresholdization of such schemes without compromising their security or significantly increasing the signature size.
   We introduce a general methodology to adapt any MPC-in-the-head signature into a threshold-friendly scheme, ensuring that the dependency on the number of users $n$ grows as $\lambda^2n + O(1)$. This represents a substantial improvement over the naive concatenation of independent signatures.
