@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# My Curriculum Vitae
+
+[Click here to download my CV (PDF)](https://elianacarozza.github.io/assets/files/cv.pdf)
