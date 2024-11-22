@@ -18,7 +18,5 @@ My primary research focuses on **digital signature schemes**, with particular em
 - **Zero-Knowledge Proofs of Knowledge (ZKPoK)**: Designing compact and efficient ZK proofs tailored to the needs of code-based cryptography.
 - **MPC-in-the-Head Protocols**: Innovating signature schemes by integrating Multi-Party Computation (MPC) techniques, enabling lightweight implementations with robust security guarantees.
 
-My recent contributions include optimizing existing code-based signature schemes by improving their structure and efficiency, as well as applying **Fiat-Shamir transformations** to reduce their size and enhance usability. These advancements have been recognized at international conferences such as **Asiacrypt** and **Eurocrypt**, where I had the privilege of presenting my work.
-
 For an overview of my work, explore my [publication page](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?hl=it&user=L7Ld9SUAAAAJ). 
 
