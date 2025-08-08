@@ -19,7 +19,7 @@ Cela représente **34 semaines de cours**, réparties en deux semestres :
 
 📌 *Voici un calendrier global permettant de visualiser la répartition des semaines de cours :*
 
-![Calendrier MP2I](/images/calendrier-mp2i.png)
+<img src="/images/calendrier-mp2i.png" alt="Calendrier" width="700px" style="display: block; margin: 20px auto;" />
 
 ---
 
@@ -28,15 +28,11 @@ Cela représente **34 semaines de cours**, réparties en deux semestres :
 Conformément au [programme officiel d’informatique MP2I/MPI publié par le ministère](https://www.cpgelachenal.fr/documents/Programme%20informatique%20MP2I-MPI.pdf), ce cours couvrira les **11 premiers chapitres** du livre recommandé :  
 [Informatique - MP2I/MPI - CPGE 1re et 2e années - Cours et exercices corrigés](https://www.editions-ellipses.fr/accueil/14407-informatique-mpi2-mpi-cpge-1re-et-2e-annees-cours-et-exercices-corriges-9782340070349.html)
 
-L’étude sera répartie sur les semaines de cours selon le tableau suivant.
-
 ---
 
 ### 📊 Répartition hebdomadaire du programme
 
-Vous pouvez consulter ou télécharger le tableau complet ici :  
-[Répartition du programme par semaines — Google Sheet](https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0)
-
+L’étude sera répartie sur les semaines de cours selon le tableau suivant.
 <iframe  
   src="https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0 
   widget=true&amp;headers=false"  
