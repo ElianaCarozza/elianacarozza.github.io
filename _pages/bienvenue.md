@@ -20,7 +20,7 @@ Pour toute question ou demande d'information, vous pouvez me contacter à l'adre
 
 ### 🎯 Informations sur le cours
 
-L'objectif de ce cours est de couvrir l'ensemble du [programme d'informatique] (https://www.cpgelachenal.fr/documents/Programme%20informatique%20MP2I-MPI.pdf) requis pour la réussite aux concours d'entrée dans les grandes écoles.   
+L'objectif de ce cours est de couvrir l'ensemble du [programme d'informatique](https://www.cpgelachenal.fr/documents/Programme%20informatique%20MP2I-MPI.pdf) requis pour la réussite aux concours d'entrée dans les grandes écoles.   
 Sur la page dédiée aux [sujets de concours](/mp2i/concours/), vous trouverez quelques épreuves des années précédentes pour différents concours.  
 Il est **essentiel de s'entraîner régulièrement** sur ces sujets.  
 Certains de ces exercices (ou des variantes), ainsi que d'autres exercices complémentaires, seront proposés pendant les séances de cours et publiés sur la page des [exercices de programmation](/mp2i/exos/).  
