@@ -24,7 +24,7 @@ L'objectif de ce cours est de couvrir l'ensemble du [programme d'informatique](h
 Sur la page dédiée aux [sujets de concours](/mp2i/concours/), vous trouverez quelques épreuves des années précédentes pour différents concours.  
 Il est **essentiel de s'entraîner régulièrement** sur ces sujets.  
 Certains de ces exercices (ou des variantes), ainsi que d'autres exercices complémentaires, seront proposés pendant les séances de cours et publiés sur la page des [exercices de programmation](/mp2i/exos/).  
-Ils pourront également être donnés sous forme de [devoirs à la maison](/mp2i/devoirs/), à raison d’un devoir environ toutes les trois semaines.  
+Ils pourront également être donnés sous forme de [devoirs à la maison](/mp2i/dm/), à raison d’un devoir environ toutes les trois semaines.  
 Ces devoirs feront l’objet d’une évaluation.
 
 ---
