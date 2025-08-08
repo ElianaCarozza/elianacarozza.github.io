@@ -19,7 +19,7 @@ Cela représente **34 semaines de cours**, réparties en deux semestres :
 
 📌 *Voici un calendrier global permettant de visualiser la répartition des semaines de cours :*
 
-![Calendrier MP2I](/assets/img/calendrier-mp2i.png)
+![Calendrier MP2I](/images/calendrier-mp2i.png)
 
 ---
 
@@ -35,10 +35,11 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
 ### 📊 Répartition hebdomadaire du programme
 
 Vous pouvez consulter ou télécharger le tableau complet ici :  
-[Répartition du programme par semaines — Google Sheet](https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?usp=sharing)
+[Répartition du programme par semaines — Google Sheet](https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0)
 
 <iframe  
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6q20rl6mP1Y_c5Bko5xAfK5KoXjzKWSF9Yvg8KjGHHQlksRZQaBWf4skVNS8EYFJD6ZuXU0M6tpoN/pubhtml?widget=true&amp;headers=false"  
+  src="https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0 
+  widget=true&amp;headers=false"  
   width="100%"  
   height="600"  
   frameborder="0">
