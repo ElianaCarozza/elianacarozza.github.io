@@ -3,6 +3,7 @@ layout: archive
 title: "MP2I"
 permalink: /mp2i/
 author_profile: true
+---
 
 <style>
   .custom-menu {
