@@ -5,23 +5,47 @@ permalink: /mp2i/
 ---
 
 <style>
-  .custom-menu {
-    border-left: 4px solid #ddd;
-    padding-left: 2px;
-    margin-bottom: 4px;
+  .page-container {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
   }
-  .custom-menu a {
+
+  .sidebar {
+    width: 250px;
+    padding-left: 20px;
+    border-left: 4px solid #ddd;
+  }
+
+  .sidebar a {
     display: block;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
     font-weight: bold;
+    color: #0077aa;
+    text-decoration: none;
+  }
+
+  .sidebar a:hover {
+    text-decoration: underline;
+  }
+
+  .main-content {
+    flex: 1;
   }
 </style>
 
-<div class="custom-menu">
-  <a href="/mp2i/bienvenue/">Bienvenue au cours d'informatique</a>
-  <a href="/mp2i/programme/">Programme et calendrier</a>
-  <a href="/mp2i/cours/">Cours</a>
-  <a href="/mp2i/exos/">Exercices de programmation</a>
-  <a href="/mp2i/devoirs/">Devoir maison</a>
-  <a href="/mp2i/concours/">Sujets de concours</a>
+<div class="page-container">
+  <div class="sidebar">
+    <a href="/mp2i/bienvenue/">Bienvenue au cours d'informatique</a>
+    <a href="/mp2i/programme/">Programme et calendrier</a>
+    <a href="/mp2i/cours/">Cours</a>
+    <a href="/mp2i/exos/">Exercices de programmation</a>
+    <a href="/mp2i/dm/">Devoir maison</a>
+    <a href="/mp2i/concours/">Sujets de concours</a>
+  </div>
+
+  <div class="main-content">
+    <h1>Bienvenue sur la page MP2I</h1>
+    <p>Choisissez une section à gauche pour accéder au contenu du cours.</p>
+  </div>
 </div>
