@@ -2,7 +2,9 @@
 layout: archive
 title: "MP2I"
 permalink: /mp2i/
-author_profile: true
+author_profile: false
+header: false
+sidebar: false
 ---
 
 <style>
