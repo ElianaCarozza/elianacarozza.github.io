@@ -19,7 +19,7 @@ Cela représente **34 semaines de cours**, réparties en deux semestres :
 
 📌 *Voici un calendrier global permettant de visualiser la répartition des semaines de cours :*
 
-<img src="/images/calendrier.png" alt="Calendrier" width="900px" style="display: block; margin: 30px auto;" />
+<img src="/images/calendrier-mp2i.png" alt="Calendrier" width="900px" style="display: block; margin: 30px auto;" />
 
 ---
 
