@@ -32,13 +32,7 @@ Conformément au [programme officiel d’informatique MP2I/MPI publié par le mi
 ### 📊 Répartition hebdomadaire du programme
 
 L’étude sera répartie sur les semaines de cours selon le tableau suivant.
-<!-- Questo è un commento in Markdown: non sarà visibile su GitHub 
-
-<iframe src="https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0 
-  widget=true&amp;headers=false"
-width="800px" height="400px" style="border: 1px solid #ccc; margin: 20px auto; display: block;">
-</iframe>
--->
+<!-- Questo è un commento in Markdown: non sarà visibile su GitHub  <iframe src="https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0 widget=true&amp;headers=false" width="800px" height="400px" style="border: 1px solid #ccc; margin: 20px auto; display: block;"> </iframe> -->
 
 
 
