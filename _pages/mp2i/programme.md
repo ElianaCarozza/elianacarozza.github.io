@@ -19,7 +19,7 @@ Cela représente **34 semaines de cours**, réparties en deux semestres :
 
 📌 *Voici un calendrier global permettant de visualiser la répartition des semaines de cours :*
 
-<img src="/images/calendrier-mp2i.png" alt="Calendrier" width="700px" style="display: block; margin: 20px auto;" />
+<img src="/images/calendrier-mp2i.png" alt="Calendrier" width="900px" style="display: block; margin: 30px auto;" />
 
 ---
 
@@ -33,10 +33,10 @@ Conformément au [programme officiel d’informatique MP2I/MPI publié par le mi
 ### 📊 Répartition hebdomadaire du programme
 
 L’étude sera répartie sur les semaines de cours selon le tableau suivant.
-<iframe  
-  src="https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0 
-  widget=true&amp;headers=false"  
-  width="100%"  
-  height="600"  
-  frameborder="0">
+
+<iframe src="https://docs.google.com/spreadsheets/d/1bLaYKiwjtkOId92elSMJjm0HFgUuNslEN8jcu967iCA/edit?gid=0#gid=0 
+  widget=true&amp;headers=false"
+width="800px" height="400px" style="border: 1px solid #ccc; margin: 20px auto; display: block;">
 </iframe>
+
+
