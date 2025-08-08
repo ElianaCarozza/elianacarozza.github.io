@@ -1,5 +1,5 @@
 ---
-layout: minimal-page
+layout: mp2i
 title: "Bienvenue au cours d'informatique"
 permalink: /mp2i/bienvenue/
 ---
