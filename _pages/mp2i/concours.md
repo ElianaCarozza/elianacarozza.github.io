@@ -44,9 +44,9 @@ permalink: /mp2i/concours/
   }
 </style>
 
-## Sujets de concours
+## 📝 Sujets et rapports des concours
 
-Voici une sélection de sujets et rapports des concours:
+Voici une sélection de sujets et rapports des concours des années précédentes.
 
 <table class="concours-table">
   <thead>
@@ -120,3 +120,10 @@ Voici une sélection de sujets et rapports des concours:
     </tr>
   </tbody>
 </table>
+
+
+❗️**ATTENTION :** je rappelle qu’il est **ESSENTIEL** de s’entraîner très largement sur tous les sujets disponibles. 
+
+S’il en manque certains, n’hésitez pas à me le signaler pour que je puisse les ajouter ici pour vos camarades également. 
+
+Plus vous vous exercez, mieux c’est ! 💪
