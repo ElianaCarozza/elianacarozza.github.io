@@ -7,8 +7,8 @@ permalink: /mp2i/
 <style>
   .custom-menu {
     border-left: 4px solid #ddd;
-    padding-left: 20px;
-    margin-bottom: 40px;
+    padding-left: 2px;
+    margin-bottom: 4px;
   }
   .custom-menu a {
     display: block;
