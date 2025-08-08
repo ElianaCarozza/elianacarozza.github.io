@@ -40,3 +40,174 @@ width="800px" height="400px" style="border: 1px solid #ccc; margin: 20px auto; d
 </iframe>
 
 
+### 📊 Répartition hebdomadaire du programme
+
+L’étude sera répartie sur les semaines de cours selon le tableau suivant :
+
+<style>
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+  font-size: 0.95em;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+th {
+  background-color: #f0f0f0;
+}
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+tr.separator td {
+  background-color: #e0e0e0;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+}
+
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Semaine</th>
+      <th>Chapitre</th>
+      <th>Section</th>
+      <th>n° section</th>
+      <th>DM</th>
+      <th>Remarques</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Architecture et système</td><td>Arithmétique des ordinateurs</td><td>2.1</td><td></td><td></td></tr>
+    <tr><td>2</td><td>Architecture et système</td><td>Modèle de Von Neumann, Système d’exploitation</td><td>2.2, 2.3</td><td></td><td></td></tr>
+    <tr><td>3</td><td>Programmation : OCaml</td><td>Premiers pas avec OCaml</td><td>3.1</td><td></td><td></td></tr>
+    <tr><td>4</td><td>Programmation : OCaml</td><td>Données structurées en OCaml</td><td>3.2</td><td></td><td></td></tr>
+    <tr><td>5</td><td>Programmation : OCaml</td><td>Récursivité en OCaml</td><td>3.3</td><td></td><td></td></tr>
+    <tr><td>6</td><td>Programmation : OCaml</td><td>Polymorphisme et ordre supérieur avec OCaml</td><td>3.4, 3.5</td><td>✅</td><td></td></tr>
+    <tr><td>7</td><td>Programmation : C</td><td>Premiers pas avec C</td><td>4.1</td><td></td><td></td></tr>
+    <tr><td>8</td><td>Programmation : C</td><td>Pointeurs, tableaux, structures en C</td><td>4.2</td><td></td><td></td></tr>
+    <tr><td>9</td><td>Programmation : C</td><td>Entrées-sorties et modularité avec C</td><td>4.3, 4.4</td><td>✅</td><td></td></tr>
+    <tr><td>10</td><td></td><td>Comparaison de C et OCaml</td><td>3.6, 4.5</td><td></td><td></td></tr>
+    <tr><td>11</td><td>Bonnes pratiques et raisonnement</td><td>Bonnes pratiques de programmation</td><td>5</td><td></td><td></td></tr>
+    <tr><td>12</td><td>Bonnes pratiques et raisonnement</td><td>Correction, terminaison, complexité</td><td>6.1, 6.2, 6.3</td><td></td><td></td></tr>
+    <tr><td>13</td><td>Bonnes pratiques et raisonnement</td><td>Induction structurelle, cas d’étude</td><td>6.4, 6.5</td><td>✅</td><td></td></tr>
+    <tr><td>14</td><td>Structures de données</td><td>Types et abstraction</td><td>7.1</td><td></td><td></td></tr>
+    <tr><td>15</td><td>Structures de données</td><td>Structures de données séquentielles</td><td>7.2</td><td></td><td></td></tr>
+    <tr><td>16</td><td>Structures de données</td><td>Structures de données hiérarchiques</td><td></td><td></td><td></td></tr>
+    <tr><td>17</td><td>Structures de données</td><td>Structures hiérarchiques, Ensembles</td><td>7.3, 7.4</td><td>✅</td><td>🔴 FIN S1</td></tr>
+    <tr><td>18</td><td>Graphes</td><td>Définitions et représentation</td><td>8.1, 8.2</td><td></td><td></td></tr>
+    <tr><td>19</td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td></td><td></td></tr>
+    <tr><td>20</td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td></td><td></td></tr>
+    <tr><td>21</td><td>Algorithmique</td><td>Algorithmique arithmétique</td><td>9.1</td><td></td><td></td></tr>
+    <tr><td>22</td><td>Algorithmique</td><td>Retour sur trace et algorithme glouton</td><td>9.2, 9.3</td><td></td><td></td></tr>
+    <tr><td>23</td><td>Algorithmique</td><td>Diviser pour régner</td><td>9.4</td><td></td><td></td></tr>
+    <tr><td>24</td><td>Algorithmique</td><td>Programmation dynamique</td><td>9.4</td><td></td><td></td></tr>
+    <tr><td>25</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td><td></td></tr>
+    <tr><td>26</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td><td></td></tr>
+    <tr><td>27</td><td>Logique</td><td>Logique propositionnelle</td><td>10.1</td><td></td><td></td></tr>
+    <tr><td>28</td><td>Logique</td><td>Logique propositionnelle</td><td>10.1</td><td></td><td></td></tr>
+    <tr><td>29</td><td>Logique</td><td>SAT</td><td>10.2</td><td></td><td></td></tr>
+    <tr><td>30</td><td>Logique</td><td>Logique du premier ordre</td><td>10.3</td><td></td><td></td></tr>
+    <tr><td>31</td><td>SQL</td><td>Modèles entité-association et relationnel</td><td>11.1, 11.2</td><td></td><td></td></tr>
+    <tr><td>32</td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td><td></td></tr>
+    <tr><td>33</td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td><td></td></tr>
+  </tbody>
+</table>
+
+
+<style>
+  .programme-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    font-size: 0.95em;
+    margin-top: 30px;
+    text-align: left;
+  }
+
+  .programme-table th, .programme-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+
+  .programme-table th {
+    background-color: #007fa3;
+    color: white;
+    font-size: 1.05em;
+  }
+
+  .programme-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  .programme-table tr:hover {
+    background-color: #f1f1f1;
+  }
+
+  .programme-table td.dm-cell {
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  .programme-table td.fin-cell {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+  }
+</style>
+
+<table class="programme-table">
+  <thead>
+    <tr>
+      <th>Semaine</th>
+      <th>Chapitre</th>
+      <th>Section</th>
+      <th>n° section</th>
+      <th>DM</th>
+      <th>Remarques</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>Architecture et système</td><td>Arithmétique des ordinateurs</td><td>2.1</td><td></td><td></td></tr>
+    <tr><td>2</td><td>Architecture et système</td><td>Modèle de Von Neumann, Système d’exploitation</td><td>2.2, 2.3</td><td></td><td></td></tr>
+    <tr><td>3</td><td>Programmation : OCaml</td><td>Premiers pas avec OCaml</td><td>3.1</td><td></td><td></td></tr>
+    <tr><td>4</td><td>Programmation : OCaml</td><td>Données structurées en OCaml</td><td>3.2</td><td></td><td></td></tr>
+    <tr><td>5</td><td>Programmation : OCaml</td><td>Récursivité en OCaml</td><td>3.3</td><td></td><td></td></tr>
+    <tr><td>6</td><td>Programmation : OCaml</td><td>Polymorphisme et ordre supérieur avec OCaml</td><td>3.4, 3.5</td><td class="dm-cell">✅</td><td></td></tr>
+    <tr><td>7</td><td>Programmation : C</td><td>Premiers pas avec C</td><td>4.1</td><td></td><td></td></tr>
+    <tr><td>8</td><td>Programmation : C</td><td>Pointeurs, tableaux, structures en C</td><td>4.2</td><td></td><td></td></tr>
+    <tr><td>9</td><td>Programmation : C</td><td>Entrées-sorties et modularité avec C</td><td>4.3, 4.4</td><td class="dm-cell">✅</td><td></td></tr>
+    <tr><td>10</td><td></td><td>Comparaison de C et OCaml</td><td>3.6, 4.5</td><td></td><td></td></tr>
+    <tr><td>11</td><td>Bonnes pratiques et raisonnement</td><td>Bonnes pratiques de programmation</td><td>5</td><td></td><td></td></tr>
+    <tr><td>12</td><td>Bonnes pratiques et raisonnement</td><td>Correction, terminaison, complexité</td><td>6.1, 6.2, 6.3</td><td></td><td></td></tr>
+    <tr><td>13</td><td>Bonnes pratiques et raisonnement</td><td>Induction structurelle, cas d’étude</td><td>6.4, 6.5</td><td class="dm-cell">✅</td><td></td></tr>
+    <tr><td>14</td><td>Structures de données</td><td>Types et abstraction</td><td>7.1</td><td></td><td></td></tr>
+    <tr><td>15</td><td>Structures de données</td><td>Structures de données séquentielles</td><td>7.2</td><td></td><td></td></tr>
+    <tr><td>16</td><td>Structures de données</td><td>Structures de données hiérarchiques</td><td></td><td></td><td></td></tr>
+    <tr><td>17</td><td>Structures de données</td><td>Structures hiérarchiques, Ensembles</td><td>7.3, 7.4</td><td class="dm-cell">✅</td><td class="fin-cell">FIN S1</td></tr>
+    <tr><td>18</td><td>Graphes</td><td>Définitions et représentation</td><td>8.1, 8.2</td><td></td><td></td></tr>
+    <tr><td>19</td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td></td><td></td></tr>
+    <tr><td>20</td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td></td><td></td></tr>
+    <tr><td>21</td><td>Algorithmique</td><td>Algorithmique arithmétique</td><td>9.1</td><td></td><td></td></tr>
+    <tr><td>22</td><td>Algorithmique</td><td>Retour sur trace et algorithme glouton</td><td>9.2, 9.3</td><td></td><td></td></tr>
+    <tr><td>23</td><td>Algorithmique</td><td>Diviser pour régner</td><td>9.4</td><td></td><td></td></tr>
+    <tr><td>24</td><td>Algorithmique</td><td>Programmation dynamique</td><td>9.4</td><td></td><td></td></tr>
+    <tr><td>25</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td><td></td></tr>
+    <tr><td>26</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td><td></td></tr>
+    <tr><td>27</td><td>Logique</td><td>Logique propositionnelle</td><td>10.1</td><td></td><td></td></tr>
+    <tr><td>28</td><td>Logique</td><td>Logique propositionnelle</td><td>10.1</td><td></td><td></td></tr>
+    <tr><td>29</td><td>Logique</td><td>SAT</td><td>10.2</td><td></td><td></td></tr>
+    <tr><td>30</td><td>Logique</td><td>Logique du premier ordre</td><td>10.3</td><td></td><td></td></tr>
+    <tr><td>31</td><td>SQL</td><td>Modèles entité-association et relationnel</td><td>11.1, 11.2</td><td></td><td></td></tr>
+    <tr><td>32</td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td><td></td></tr>
+    <tr><td>33</td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td><td></td></tr>
+  </tbody>
+</table>
+
+
+
