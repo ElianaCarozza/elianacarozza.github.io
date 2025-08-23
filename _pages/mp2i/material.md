@@ -15,7 +15,7 @@ permalink: /mp2i/material/
 
   <div style="margin:10px 0 0 28px;">
   <ul>
-    <li>📄 [Formation au langage Caml (PDF)](https://elianacarozza.github.io/files/mp2i/ocaml/pdf1.pdf) </li>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf1.pdf' | relative_url }}">Formation au langage Caml (PDF)</a></li>
     <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf2.pdf' | relative_url }}">Introduction à Caml (PDF)</a></li>
     <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf3.pdf' | relative_url }}">Programmation en Caml (PDF)</a></li>
   </ul>
