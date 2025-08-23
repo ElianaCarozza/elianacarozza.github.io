@@ -99,7 +99,7 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     <tr><td>9</td><td>Programmation : C</td><td>Pointeurs, tableaux, structures en C</td><td>4.2</td><td></td></tr>
     <tr><td>10</td><td>Programmation : C</td><td>Entrées-sorties et modularité avec C</td><td>4.3, 4.4</td><td></td></tr>
     <tr><td>11</td><td>Programmation : C</td><td>Exercitation</td><td></td><td></td></tr>
-    <tr><td>12</td><td></td><td>Comparaison de C et OCaml</td><td>3.6, 4.5</td><td></td></tr>
+    <tr><td>12</td><td>Programmation </td><td>Comparaison de C et OCaml</td><td>3.6, 4.5</td><td></td></tr>
     <tr><td>13</td><td>Bonnes pratiques et raisonnement</td><td>Bonnes pratiques de programmation</td><td>5</td><td></td></tr>
     <tr><td>14</td><td>Bonnes pratiques et raisonnement</td><td>Correction, terminaison, complexité</td><td>6.1, 6.2, 6.3</td><td></td></tr>
     <tr><td>15</td><td>Bonnes pratiques et raisonnement</td><td>Induction structurelle, cas d’étude</td><td>6.4, 6.5</td><td></td></tr>
@@ -122,7 +122,7 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     <tr><td>32</td><td>Logique</td><td>Logique du premier ordre</td><td>10.3</td><td></td></tr>
     <tr><td>33</td><td>SQL</td><td>Modèles entité-association et relationnel</td><td>11.1, 11.2</td><td></td></tr>
     <tr><td>34</td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td></tr>
-    <tr><td>35</td><td>SQL</td><td>Exercitation </td><td>11.3</td><td></td></tr>
+    <tr><td>35</td><td>SQL</td><td>Exercitation </td><td></td><td></td></tr>
   </tbody>
 </table>
 
