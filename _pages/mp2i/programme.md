@@ -89,19 +89,19 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     </tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Architecture et système</td><td>Arithmétique des ordinateurs</td><td>2.1</td><td></td><td></td></tr>
-    <tr><td>2</td><td>Architecture et système</td><td>Modèle de Von Neumann, Système d’exploitation</td><td>2.2, 2.3</td><td></td><td></td></tr>
-    <tr><td>3</td><td>Programmation : OCaml</td><td>Premiers pas avec OCaml</td><td>3.1</td><td></td><td></td></tr>
-    <tr><td>4</td><td>Programmation : OCaml</td><td>Données structurées en OCaml</td><td>3.2</td><td></td><td></td></tr>
-    <tr><td>5</td><td>Programmation : OCaml</td><td>Récursivité en OCaml</td><td>3.3</td><td></td><td></td></tr>
-    <tr><td>6</td><td>Programmation : OCaml</td><td>Polymorphisme et ordre supérieur avec OCaml</td><td>3.4, 3.5</td><td class="dm-cell">✅</td><td></td></tr>
-    <tr><td>7</td><td>Programmation : C</td><td>Premiers pas avec C</td><td>4.1</td><td></td><td></td></tr>
-    <tr><td>8</td><td>Programmation : C</td><td>Pointeurs, tableaux, structures en C</td><td>4.2</td><td></td><td></td></tr>
-    <tr><td>9</td><td>Programmation : C</td><td>Entrées-sorties et modularité avec C</td><td>4.3, 4.4</td><td class="dm-cell">✅</td><td></td></tr>
+    <tr><td>1</td><td>Architecture et système</td><td>Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation </td><td>2.1, 2.2, 2.3 </td><td></td><td></td></tr>
+    <tr><td>2</td><td>Programmation : OCaml</td><td>Premiers pas avec OCaml</td><td>3.1</td><td></td><td>TP</td></tr>
+    <tr><td>3</td><td>Programmation : OCaml</td><td>Données structurées en OCaml</td><td>3.2</td><td></td><td>TP</td></tr>
+    <tr><td>4</td><td>Programmation : OCaml</td><td>Récursivité en OCaml</td><td>3.3</td><td></td><td>TD</td></tr>
+    <tr><td>5</td><td>Programmation : OCaml</td><td>Polymorphisme et ordre supérieur avec OCaml</td><td>3.4</td><td class="dm-cell">✅</td><td>TP</td></tr>
+    <tr><td>6</td><td>Programmation : OCaml</td><td>Polymorphisme et ordre supérieur avec OCaml</td><td>3.5</td><td class="dm-cell">✅</td><td>TP</td></tr>
+    <tr><td>7</td><td>Programmation : C</td><td>Premiers pas avec C</td><td>4.1</td><td></td><td>TP</td></tr>
+    <tr><td>8</td><td>Programmation : C</td><td>Pointeurs, tableaux, structures en C</td><td>4.2</td><td></td><td>TP</td></tr>
+    <tr><td>9</td><td>Programmation : C</td><td>Entrées-sorties et modularité avec C</td><td>4.3, 4.4</td><td class="dm-cell">✅</td><td>TD</td></tr>
     <tr><td>10</td><td></td><td>Comparaison de C et OCaml</td><td>3.6, 4.5</td><td></td><td></td></tr>
     <tr><td>11</td><td>Bonnes pratiques et raisonnement</td><td>Bonnes pratiques de programmation</td><td>5</td><td></td><td></td></tr>
     <tr><td>12</td><td>Bonnes pratiques et raisonnement</td><td>Correction, terminaison, complexité</td><td>6.1, 6.2, 6.3</td><td></td><td></td></tr>
-    <tr><td>13</td><td>Bonnes pratiques et raisonnement</td><td>Induction structurelle, cas d’étude</td><td>6.4, 6.5</td><td class="dm-cell">✅</td><td></td></tr>
+    <tr><td>13</td><td>Bonnes pratiques et raisonnement</td><td>Induction structurelle, cas d’étude</td><td>6.4, 6.5</td><td class="dm-cell">✅</td><td>DST</td></tr>
     <tr><td>14</td><td>Structures de données</td><td>Types et abstraction</td><td>7.1</td><td></td><td></td></tr>
     <tr><td>15</td><td>Structures de données</td><td>Structures de données séquentielles</td><td>7.2</td><td></td><td></td></tr>
     <tr><td>16</td><td>Structures de données</td><td>Structures de données hiérarchiques</td><td>7.3</td><td></td><td></td></tr>
