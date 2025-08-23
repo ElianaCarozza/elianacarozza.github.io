@@ -9,14 +9,13 @@ permalink: /mp2i/material/
 <!-- Cartella 1: OCaml (🐫 cammello) -->
 <details>
   <summary>
-    <span style="font-size:44px;">🐫 <strong>OCaml</strong></span>
+    <span style="font-size:24px;">🐫 <strong>OCaml</strong></span>
     &nbsp;·&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;">Ouvrir le dossier ↗</a>
   </summary>
 
   <div style="margin:10px 0 0 28px;">
     <ul>
       <li>📄 <a href="files/ocaml/pdf1.pdf">Formation au langage Caml (PDF)</a></li>
-      <li>📄 <a href="files/ocaml/CAML recap.pdf">Introduction à Caml (PDF)</a></li>
     </ul>
   </div>
 </details>
@@ -26,7 +25,7 @@ permalink: /mp2i/material/
 <!-- Cartella 2: Langage C (💻 computer) -->
 <details>
   <summary>
-    <span style="font-size:44px;">💻 <strong>Langage C</strong></span>
+    <span style="font-size:24px;">💻 <strong>Langage C</strong></span>
     &nbsp;·&nbsp;<a href="c/" style="font-size:14px; text-decoration:none;">Ouvrir le dossier ↗</a>
   </summary>
 
@@ -44,7 +43,7 @@ permalink: /mp2i/material/
 <!-- Cartella 3: Exercices (📝 foglio di esercizi) -->
 <details>
   <summary>
-    <span style="font-size:44px;">📝 <strong>Exercices</strong></span>
+    <span style="font-size:24px;">📝 <strong>Exercices</strong></span>
     &nbsp;·&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;">Ouvrir le dossier ↗</a>
   </summary>
 
