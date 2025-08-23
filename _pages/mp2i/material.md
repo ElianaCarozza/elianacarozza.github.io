@@ -10,7 +10,7 @@ permalink: /mp2i/material/
 <details>
   <summary>
     <span style="font-size:24px;">🐫 <strong>OCaml</strong></span>
-    &nbsp;·&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;">Ouvrir le dossier ↗</a>
+    &nbsp;·&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
   <div style="margin:10px 0 0 28px;">
@@ -26,7 +26,7 @@ permalink: /mp2i/material/
 <details>
   <summary>
     <span style="font-size:24px;">💻 <strong>Langage C</strong></span>
-    &nbsp;·&nbsp;<a href="c/" style="font-size:14px; text-decoration:none;">Ouvrir le dossier ↗</a>
+    &nbsp;·&nbsp;<a href="c/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
   <div style="margin:10px 0 0 28px;">
@@ -44,7 +44,7 @@ permalink: /mp2i/material/
 <details>
   <summary>
     <span style="font-size:24px;">📝 <strong>Exercices</strong></span>
-    &nbsp;·&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;">Ouvrir le dossier ↗</a>
+    &nbsp;·&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
   <div style="margin:10px 0 0 28px;">
