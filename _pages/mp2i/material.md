@@ -15,9 +15,8 @@ permalink: /mp2i/material/
 
   <div style="margin:10px 0 0 28px;">
     <ul>
-      <li>📄 <a href="ocaml/cours1.pdf">Cours 1 (PDF)</a></li>
-      <li>📄 <a href="ocaml/cours2.pdf">Cours 2 (PDF)</a></li>
-      <li>📄 <a href="ocaml/cours3.pdf">Cours 3 (PDF)</a></li>
+      <li>📄 <a href="files/ocaml/CAML recap.pdf">Cours 1 (PDF)</a></li>
+      <li>📄 <a href="files/ocaml/pdf1.pdf">Cours 2 (PDF)</a></li>
     </ul>
   </div>
 </details>
