@@ -14,12 +14,13 @@ permalink: /mp2i/material/
   </summary>
 
   <div style="margin:10px 0 0 28px;">
-    <ul>
-      <li>📄 <a href="files/ocaml/pdf1.pdf">Formation au langage Caml (PDF)</a></li>
-      <li>📄 <a href="files/ocaml/pdf2.pdf">Introduction à Caml (PDF)</a></li>
-      <li>📄 <a href="files/ocaml/pdf3.pdf">Programmation en Caml (PDF)</a></li>
-    </ul>
-  </div>
+  <ul>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf1.pdf' | relative_url }}">Formation au langage Caml (PDF)</a></li>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf2.pdf' | relative_url }}">Introduction à Caml (PDF)</a></li>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf3.pdf' | relative_url }}">Programmation en Caml (PDF)</a></li>
+  </ul>
+</div>
+
 </details>
 
 ---
