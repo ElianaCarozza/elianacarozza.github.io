@@ -1,6 +1,6 @@
 ---
 layout: mp2i
-title: "Sujets de concours"
+title: "Ressources utiles"
 permalink: /mp2i/material/
 ---
 
