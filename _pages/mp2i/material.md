@@ -16,6 +16,8 @@ permalink: /mp2i/material/
   <div style="margin:10px 0 0 28px;">
     <ul>
       <li>📄 <a href="files/ocaml/pdf1.pdf">Formation au langage Caml (PDF)</a></li>
+      <li>📄 <a href="files/ocaml/pdf2.pdf">Introduction à Caml (PDF)</a></li>
+      <li>📄 <a href="files/ocaml/pdf3.pdf">Programmation en Caml (PDF)</a></li>
     </ul>
   </div>
 </details>
