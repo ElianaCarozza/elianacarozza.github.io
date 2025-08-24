@@ -15,7 +15,6 @@ en pratique les connaissances acquises.
 De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
 ---
 
-<hr>
 
 <!-- Cartella 1: OCaml (🐫 cammello) -->
 <details>
@@ -34,7 +33,7 @@ De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
 
 </details>
 
----
+
 
 <!-- Cartella 2: Langage C (💻 computer) -->
 <details>
@@ -52,7 +51,6 @@ De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
   </div>
 </details>
 
----
 
 <!-- Cartella 3: Exercices (📝 foglio di esercizi) -->
 <details>
