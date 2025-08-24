@@ -7,10 +7,9 @@ permalink: /mp2i/material/
 # 📂 Matériel utile
 
 
-Dans cette section seront regroupés différents <strong>documents complémentaires</strong> 
-pour approfondir les notions vues en cours.  
+Dans cette section seront regroupés différents documents complémentaires pour approfondir les notions vues en cours.  
 
-Vous y trouverez notamment des supports pour <strong>OCaml</strong>🐫, <strong>C</strong>💻et <strong>SQL</strong>🗄️ , ainsi qu’une série d’<strong>exercices</strong>📝 destinés à mettre en pratique les connaissances acquises.  
+Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ainsi qu’une série d’exercises📝 destinés à mettre en pratique les connaissances acquises.  
 
 📄 De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
 
