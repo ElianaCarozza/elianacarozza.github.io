@@ -7,6 +7,7 @@ permalink: /mp2i/concours/
 # 📝 Sujets des concours
 
 Voici une sélection de sujets et rapports des concours des années précédentes.
+---
 
 <!-- Cartella 1: POLYTECHNIQUE -->
 <details>
@@ -25,7 +26,7 @@ Voici une sélection de sujets et rapports des concours des années précédente
 
 </details>
 
----
+
 
 <!-- Cartella 2: SUPELEC -->
 <details>
@@ -43,7 +44,7 @@ Voici une sélection de sujets et rapports des concours des années précédente
   </div>
 </details>
 
----
+
 
 <!-- Cartella 3: INP -->
 <details>
@@ -61,7 +62,7 @@ Voici une sélection de sujets et rapports des concours des années précédente
   </div>
 </details>
 
----
+
 
 <!-- Cartella 4: MINES -->
 <details>
