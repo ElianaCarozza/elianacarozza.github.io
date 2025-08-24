@@ -6,10 +6,21 @@ permalink: /mp2i/material/
 
 # 📂 Matériel utile
 
+
+Dans cette section seront regroupés différents <strong>documents complémentaires</strong> 
+pour approfondir les notions vues en cours.  
+Vous y trouverez notamment des supports sur les langages <strong>OCaml</strong> et 
+<strong>C</strong>, ainsi qu’une série d’<strong>exercices</strong> destinés à mettre 
+en pratique les connaissances acquises.  
+De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
+---
+
+<hr>
+
 <!-- Cartella 1: OCaml (🐫 cammello) -->
 <details>
   <summary>
-    <span style="font-size: 60px;">🐫 <strong>OCaml</strong></span>
+    <span style="font-size: 30px;">🐫 <strong>OCaml</strong></span>
     &nbsp;&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
@@ -28,7 +39,7 @@ permalink: /mp2i/material/
 <!-- Cartella 2: Langage C (💻 computer) -->
 <details>
   <summary>
-    <span style="font-size: 60px;">💻 <strong>Langage C</strong></span>
+    <span style="font-size: 30px;">💻 <strong>Langage C</strong></span>
     &nbsp;&nbsp;<a href="c/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
@@ -46,7 +57,7 @@ permalink: /mp2i/material/
 <!-- Cartella 3: Exercices (📝 foglio di esercizi) -->
 <details>
   <summary>
-    <span style="font-size: 60px;">📝 <strong>Exercices</strong></span>
+    <span style="font-size: 30px;">📝 <strong>Exercices</strong></span>
     &nbsp;&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
