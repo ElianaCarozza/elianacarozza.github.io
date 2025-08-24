@@ -4,7 +4,7 @@ title: "Cours"
 permalink: /mp2i/cours/
 ---
 
-# 📘Cours
+# 📘Notes du cours
 Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés par thème. Deux leçons seront proposées chaque semaine :  
 - une séance de théorie (vous pourrez trouver le PDF avec les notes de cours ci-dessous)
 - et une séance d’exercitation(vous pourrez trouver le PDF correspondant sur la page dédiée aux TP/TD/exercices).
