@@ -48,7 +48,7 @@ Voici une sélection de sujets et rapports des concours des années précédente
 <!-- Cartella 3: INP -->
 <details>
   <summary>
-    <span style="font-size: 30px;">📝 <strong>Exercices</strong></span>
+    <span style="font-size: 30px;"><strong>INP</strong></span>
     &nbsp;&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
