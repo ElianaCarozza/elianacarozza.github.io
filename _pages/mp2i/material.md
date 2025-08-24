@@ -9,10 +9,11 @@ permalink: /mp2i/material/
 
 Dans cette section seront regroupés différents <strong>documents complémentaires</strong> 
 pour approfondir les notions vues en cours.  
-Vous y trouverez notamment des supports sur les langages <strong>OCaml</strong> et 
-<strong>C</strong>, ainsi qu’une série d’<strong>exercices</strong> destinés à mettre 
-en pratique les connaissances acquises.  
-De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
+
+Vous y trouverez notamment des supports pour <strong>OCaml</strong>🐫, <strong>C</strong>💻et <strong>SQL</strong>🗄️ , ainsi qu’une série d’<strong>exercices</strong>📝 destinés à mettre en pratique les connaissances acquises.  
+
+📄 De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
+
 ---
 
 
@@ -30,7 +31,6 @@ De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
     <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf3.pdf' | relative_url }}">Introduction à Caml (PDF)</a></li>
   </ul>
 </div>
-
 </details>
 
 
@@ -44,15 +44,25 @@ De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
 
   <div style="margin:10px 0 0 28px;">
     <ul>
-      <li>📄 <a href="c/variables.pdf">Variables (PDF)</a></li>
-      <li>📄 <a href="c/boucles.pdf">Boucles (PDF)</a></li>
-      <li>📄 <a href="c/pointeurs.pdf">Pointeurs (PDF)</a></li>
     </ul>
   </div>
 </details>
 
+<!-- Cartella 3: SQL -->
+<details>
+  <summary>
+    <span style="font-size: 30px;">🗄️ <strong>SQL</strong></span>
+    &nbsp;&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;"></a>
+  </summary>
 
-<!-- Cartella 3: Exercices (📝 foglio di esercizi) -->
+  <div style="margin:10px 0 0 28px;">
+  <ul>
+  </ul>
+</div>
+</details>
+
+
+<!-- Cartella 4: Exercices (📝 foglio di esercizi) -->
 <details>
   <summary>
     <span style="font-size: 30px;">📝 <strong>Exercices</strong></span>
@@ -61,9 +71,6 @@ De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
 
   <div style="margin:10px 0 0 28px;">
     <ul>
-      <li>📄 <a href="exercices/exo1.pdf">Exercice 1 (PDF)</a></li>
-      <li>📄 <a href="exercices/exo2.pdf">Exercice 2 (PDF)</a></li>
-      <li>📄 <a href="exercices/exo3.pdf">Exercice 3 (PDF)</a></li>
     </ul>
   </div>
 </details>
