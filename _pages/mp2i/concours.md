@@ -4,122 +4,80 @@ title: "Sujets de concours"
 permalink: /mp2i/concours/
 ---
 
-
-<style>
-  .concours-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin-top: 30px;
-  }
-
-  .concours-table th, .concours-table td {
-    padding: 12px;
-    border: 1px solid #ddd;
-  }
-
-  .concours-table th {
-    background-color: #007fa3;
-    color: white;
-    font-size: 1.1em;
-  }
-
-  .concours-table td.subject-cell {
-    background-color: #f9f9f9;
-  }
-
-  .concours-table tr:hover {
-    background-color: #f1f1f1;
-  }
-
-  .concours-table a {
-    color: #007fa3;
-    text-decoration: none;
-    font-weight: bold;
-  }
-
-  .concours-table a:hover {
-    text-decoration: underline;
-  }
-</style>
-
-## 📝 Sujets et rapports des concours
+# 📝 Sujets des concours
 
 Voici une sélection de sujets et rapports des concours des années précédentes.
 
-<table class="concours-table">
-  <thead>
-    <tr>
-      <th>Concours</th>
-      <th>2023</th>
-      <th>2024</th>
-      <th>2025</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>SUPELEC</strong></td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>POLYTECHNIQUE</strong></td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>INP</strong></td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Mines-Ponts</strong></td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<!-- Cartella 1: POLYTECHNIQUE -->
+<details>
+  <summary>
+    <span style="font-size: 30px;"><strong>POLYTECHNIQUE</strong></span>
+    &nbsp;&nbsp;<a href="poly/" style="font-size:14px; text-decoration:none;"></a>
+  </summary>
+
+  <div style="margin:10px 0 0 28px;">
+  <ul>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf1.pdf' | relative_url }}">Formation au langage Caml (PDF)</a></li>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf2.pdf' | relative_url }}">Programmation en Caml (PDF)</a></li>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf3.pdf' | relative_url }}">Introduction à Caml (PDF)</a></li>
+  </ul>
+</div>
+
+</details>
+
+---
+
+<!-- Cartella 2: SUPELEC -->
+<details>
+  <summary>
+    <span style="font-size: 30px;"> <strong>SUPELEC</strong></span>
+    &nbsp;&nbsp;<a href="sup/" style="font-size:14px; text-decoration:none;"></a>
+  </summary>
+
+  <div style="margin:10px 0 0 28px;">
+    <ul>
+      <li>📄 <a href="c/variables.pdf">Variables (PDF)</a></li>
+      <li>📄 <a href="c/boucles.pdf">Boucles (PDF)</a></li>
+      <li>📄 <a href="c/pointeurs.pdf">Pointeurs (PDF)</a></li>
+    </ul>
+  </div>
+</details>
+
+---
+
+<!-- Cartella 3: INP -->
+<details>
+  <summary>
+    <span style="font-size: 30px;">📝 <strong>Exercices</strong></span>
+    &nbsp;&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;"></a>
+  </summary>
+
+  <div style="margin:10px 0 0 28px;">
+    <ul>
+      <li>📄 <a href="exercices/exo1.pdf">Exercice 1 (PDF)</a></li>
+      <li>📄 <a href="exercices/exo2.pdf">Exercice 2 (PDF)</a></li>
+      <li>📄 <a href="exercices/exo3.pdf">Exercice 3 (PDF)</a></li>
+    </ul>
+  </div>
+</details>
+
+---
+
+<!-- Cartella 4: MINES -->
+<details>
+  <summary>
+    <span style="font-size: 30px;"> <strong>MINES</strong></span>
+    &nbsp;&nbsp;<a href="mines/" style="font-size:14px; text-decoration:none;"></a>
+  </summary>
+
+  <div style="margin:10px 0 0 28px;">
+    <ul>
+      <li>📄 <a href="c/variables.pdf">Variables (PDF)</a></li>
+      <li>📄 <a href="c/boucles.pdf">Boucles (PDF)</a></li>
+      <li>📄 <a href="c/pointeurs.pdf">Pointeurs (PDF)</a></li>
+    </ul>
+  </div>
+</details>
 
 
 ❗️**ATTENTION :** je rappelle qu’il est **ESSENTIEL** de s’entraîner très largement sur tous les sujets disponibles. Plus vous vous exercez, mieux c’est ! 💪
