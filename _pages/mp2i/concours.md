@@ -79,6 +79,7 @@ Voici une sélection de sujets et rapports des concours des années précédente
   </div>
 </details>
 
+---
 
 ❗️**ATTENTION :** je rappelle qu’il est **ESSENTIEL** de s’entraîner très largement sur tous les sujets disponibles. Plus vous vous exercez, mieux c’est ! 💪
 
