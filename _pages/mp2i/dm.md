@@ -59,60 +59,40 @@ Dans cette section seront ajoutés progressivement les **devoirs à la maison (D
 Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront ajoutés ci-dessous :
 
 <table class="concours-table">
-  
   <thead>
     <tr>
       <th>DM</th>
-      <th>A rendre</th>
-      <th>Enonce</th>
+      <th>À rendre</th>
+      <th>Énoncé</th>
       <th>Correction</th>
     </tr>
   </thead>
-  
+
   <tbody>
     <tr>
       <td><strong>DM 1</strong></td>
-      <td class="subject-cell">
-        --/--/--
-      </td>
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
+      <td class="subject-cell">--/--/--</td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
     </tr>
     <tr>
       <td><strong>DM 2</strong></td>
-      <td class="subject-cell">
-        --/--/--
-      </td>
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
+      <td class="subject-cell">--/--/--</td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
     </tr>
     <tr>
       <td><strong>DM 3</strong></td>
-      <td class="subject-cell">
-        --/--/--
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
+      <td class="subject-cell">--/--/--</td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
     </tr>
     <tr>
       <td><strong>DM 4</strong></td>
-      <td class="subject-cell">
-        --/--/--
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">PDF</a>
-      </td>
-   
+      <td class="subject-cell">--/--/--</td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
+      <td class="subject-cell"><a href="#">PDF</a></td>
+    </tr>
+  </tbody>
+</table>
+
