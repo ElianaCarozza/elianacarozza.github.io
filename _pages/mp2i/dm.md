@@ -61,71 +61,57 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
 <table class="concours-table">
   <thead>
     <tr>
-      <th>Concours</th>
-      <th>2023</th>
-      <th>2024</th>
-      <th>2025</th>
+      <th>DM</th>
+      <th>A rendre</th>
+      <th>Enonce</th>
+      <th>Correction</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>SUPELEC</strong></td>
+      <td><strong>DM 1</strong></td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        --/--/--
       </td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        <a href="#">PDF</a>
       </td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        <a href="#">PDF</a>
       </td>
     </tr>
     <tr>
-      <td><strong>POLYTECHNIQUE</strong></td>
+      <td><strong>DM 2</strong></td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        --/--/--
       </td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        <a href="#">PDF</a>
       </td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        <a href="#">PDF</a>
       </td>
     </tr>
     <tr>
-      <td><strong>INP</strong></td>
+      <td><strong>DM 3</strong></td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        --/--/--
+      <td class="subject-cell">
+        <a href="#">PDF</a>
       </td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        <a href="#">PDF</a>
       </td>
     </tr>
     <tr>
-      <td><strong>Mines-Ponts</strong></td>
+      <td><strong>DM 4</strong></td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        --/--/--
+      <td class="subject-cell">
+        <a href="#">PDF</a>
       </td>
       <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
-      </td>
-      <td class="subject-cell">
-        <a href="#">Sujet</a><br>
-        <a href="#">Rapport</a>
+        <a href="#">PDF</a>
       </td>
     </tr>
   </tbody>
