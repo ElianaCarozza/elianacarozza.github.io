@@ -11,8 +11,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ---
 ## 🖋️ Architecture et système
-- Architecture et système - Arithmétique des ordinateurs :  
-- Architecture et système - Modèle de Von Neumann, Système d’exploitation :[📄 PDF ](#)
+- Architecture et système - Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation :[📄 PDF ](#)
 
 ## 💻 Programmation : OCaml
 - Premiers pas avec OCaml : [📄 PDF ](#)
