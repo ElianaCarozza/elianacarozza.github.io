@@ -59,6 +59,7 @@ Dans cette section seront ajoutés progressivement les **devoirs à la maison (D
 Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront ajoutés ci-dessous :
 
 <table class="concours-table">
+  
   <thead>
     <tr>
       <th>DM</th>
@@ -67,6 +68,7 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <th>Correction</th>
     </tr>
   </thead>
+  
   <tbody>
     <tr>
       <td><strong>DM 1</strong></td>
@@ -113,6 +115,4 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <td class="subject-cell">
         <a href="#">PDF</a>
       </td>
-    </tr>
-  </tbody>
-</table>
+   
