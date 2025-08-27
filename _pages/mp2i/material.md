@@ -54,6 +54,7 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 
   <div style="margin:10px 0 0 28px;">
   <ul>
+   <li>📄 <a href="https://sqlbolt.com/" target="_blank">S'exercer à SQL </a></li>
   </ul>
 </div>
 </details>
