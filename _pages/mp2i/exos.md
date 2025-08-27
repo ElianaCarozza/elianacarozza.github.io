@@ -12,7 +12,8 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 
 ---
 #### 🖋️ Architecture et système 
-- [📄 PDF ](#)
+- [📄 TP1 ](https://elianacarozza.github.io/files/mp2i/Ex_1.pdf)
+- [📄 TP2 ](https://elianacarozza.github.io/files/mp2i/Ex_2.pdf)
 
 #### 💻 Programmation- OCaml 
 - [📄 PDF ](#)
