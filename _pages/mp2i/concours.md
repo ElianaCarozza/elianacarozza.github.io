@@ -18,9 +18,9 @@ Voici une sélection de sujets et rapports des concours des années précédente
 
   <div style="margin:10px 0 0 28px;">
   <ul>
-    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf1.pdf' | relative_url }}">Formation au langage Caml (PDF)</a></li>
-    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf2.pdf' | relative_url }}">Programmation en Caml (PDF)</a></li>
-    <li>📄 <a href="{{ '/files/mp2i/ocaml/pdf3.pdf' | relative_url }}">Introduction à Caml (PDF)</a></li>
+    <li>📄 <a href="https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/2023%20MPI%20SUJET%20INFORMATIQUE%20C%20(XULSR).pdf">2023</a></li>
+      <li>📄 <a href="https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/2024%20MPI%20SUJET%20INFORMATIQUE%20C%20(XULSR).pdf">2024</a></li>
+      <li>📄 <a href="https://www.polytechnique.edu/admission-cycle-ingenieur/sites/admission/files/content/Info%20C%20MPI.pdf">2025</a></li>
   </ul>
 </div>
 
@@ -28,18 +28,18 @@ Voici une sélection de sujets et rapports des concours des années précédente
 
 
 
-<!-- Cartella 2: SUPELEC -->
+<!-- Cartella 2: CENTRALE -->
 <details>
   <summary>
-    <span style="font-size: 30px;"> <strong>SUPELEC</strong></span>
+    <span style="font-size: 30px;"> <strong>CENTRALE</strong></span>
     &nbsp;&nbsp;<a href="sup/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
   <div style="margin:10px 0 0 28px;">
     <ul>
-      <li>📄 <a href="c/variables.pdf">Variables (PDF)</a></li>
-      <li>📄 <a href="c/boucles.pdf">Boucles (PDF)</a></li>
-      <li>📄 <a href="c/pointeurs.pdf">Pointeurs (PDF)</a></li>
+      <li>📄 <a href="https://www.concours-centrale-supelec.fr/sites/default/files/documents/I012.pdf">2023</a></li>
+      <li>📄 <a href="https://www.concours-centrale-supelec.fr/sites/default/files/2025-01/I016.pdf">2024</a></li>
+      <li>📄 <a href="https://www.concours-centrale-supelec.fr/sites/default/files/documents/I020.pdf">2025</a></li>
     </ul>
   </div>
 </details>
@@ -55,9 +55,6 @@ Voici une sélection de sujets et rapports des concours des années précédente
 
   <div style="margin:10px 0 0 28px;">
     <ul>
-      <li>📄 <a href="exercices/exo1.pdf">Exercice 1 (PDF)</a></li>
-      <li>📄 <a href="exercices/exo2.pdf">Exercice 2 (PDF)</a></li>
-      <li>📄 <a href="exercices/exo3.pdf">Exercice 3 (PDF)</a></li>
     </ul>
   </div>
 </details>
@@ -73,9 +70,6 @@ Voici une sélection de sujets et rapports des concours des années précédente
 
   <div style="margin:10px 0 0 28px;">
     <ul>
-      <li>📄 <a href="c/variables.pdf">Variables (PDF)</a></li>
-      <li>📄 <a href="c/boucles.pdf">Boucles (PDF)</a></li>
-      <li>📄 <a href="c/pointeurs.pdf">Pointeurs (PDF)</a></li>
     </ul>
   </div>
 </details>
