@@ -14,7 +14,7 @@ Vous trouverez ci-dessous quelques informations utiles.
 
 Je m'appelle **Eliana Carozza** et je serai votre enseignante pour ce cours d'informatique.  
 Pour toute question ou demande d'information, vous pouvez me contacter à l'adresse suivante :  
-**eliana.carozza@uvsq.fr**
+**elianacarozza@gmail.com**
 
 ---
 
