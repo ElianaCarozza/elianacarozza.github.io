@@ -13,11 +13,20 @@ Les cours commenceront **le 1 septembre 2025** et se termineront **le 27 juin 20
 - **Vacances d’hiver** : du 14 février 2026 au 1 mars 2026  
 - **Vacances de printemps** : du 11 avril 2026 au 26 avril 2026  
 
-Cela représente **34 semaines de cours**, réparties en deux semestres :  
-- **Premier semestre** : jusqu’au 16 janvier 2026  
-- **Deuxième semestre** : jusqu’au 27 juin 2026 
+Cela représente **35 semaines de cours**, réparties en deux semestres :  
+- Premier semestre: jusqu’au 16 janvier 2026  
+- Deuxième semestre : jusqu’au 27 juin 2026  
+
+🔄 *Différentes activités pédagogiques rythment l’année en parallèle des cours hebdomadaires : DST, colles, semaines aménagées...*
+
+- 📝 **Les DST (Devoirs Surveillés)** débuteront le 15 septembre 2025 et se termineront le 15 juin 2026.  
+- 🎤 **Les colles** commenceront le 22 septembre 2025 et finiront le 19 juin 2026.  
+- 📅 **Les semaines aménagées** auront lieu :
+  - du 1er au 7 septembre 2025 (semaine de rentrée),
+  - du 18 au 22 mai 2026 (concours blancs).
 
 📌 *Voici un calendrier global permettant de visualiser la répartition des semaines de cours :*
+
 
 <img src="/images/calendrier-mp2i.png" alt="Calendrier" width="900px" style="display: block; margin: 30px auto;" />
 
