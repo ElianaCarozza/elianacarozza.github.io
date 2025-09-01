@@ -13,9 +13,9 @@ Les cours commenceront **le 1 septembre 2025** et se termineront **le 27 juin 20
 - **Vacances d’hiver** : du 14 février 2026 au 1 mars 2026  
 - **Vacances de printemps** : du 11 avril 2026 au 26 avril 2026  
 
-Cela représente **35 semaines de cours**, réparties en deux semestres :  
-- **Premier semestre** : 16 semaines jusqu’au 16 janvier 2026  
-- **Deuxième semestre** : 17 semaines restantes
+Cela représente **34 semaines de cours**, réparties en deux semestres :  
+- **Premier semestre** : jusqu’au 16 janvier 2026  
+- **Deuxième semestre** : jusqu’au 27 juin 2026 
 
 📌 *Voici un calendrier global permettant de visualiser la répartition des semaines de cours :*
 
