@@ -24,11 +24,11 @@ author:
   avatar           : "elianacarozza.jpg"
   name             : "Eliana Carozza"
   pronouns         : # example: "she/her"  
-  bio              : "Phd student in post quantum cryptography"
+  bio              : "Engineer in Post-Quantum Cryptography"
   location         : "Paris"
-  employer         : "IRIF, Paris University"
+  employer         : "ÉQUIPE CRYPTO, Université de Versailles Saint-Quentin-en-Yvelines"
   uri              : # URL
-  email            : "carozza@irif.fr" 
+  email            : "eliana.carozza@uvsq.fr" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
