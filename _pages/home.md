@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # About Me
-I am a Pedagogical Engineer in Post-Quantum Cryptography at [Université de Versailles Saint-Quentin-en-Yvelines](https://www.uvsq.fr/). My work focuses on the design and dissemination of advanced cryptographic concepts, with a particular expertise in code-based post-quantum cryptography.
+am a Pedagogical Engineer in Post-Quantum Cryptography at [Université de Versailles Saint-Quentin-en-Yvelines](https://www.uvsq.fr/), within the **CRYPTO team**. As part of the national project *“Train Cyber Experts”* (initiative Compétences et Métiers d’Avenir – France 2030), in partnership with Institut Mines-Télécom, I am responsible for the conception and development of advanced academic dissemination modules in mathematics for cryptography and in cryptography itself.
 
 I hold a PhD in Computer Science from [IRIF](http://www.irif.fr) (Institut de Recherche en Informatique Fondamentale), Université Paris Cité, where my research centered on advanced cryptographic primitives and digital signature schemes in the post-quantum setting.
 
