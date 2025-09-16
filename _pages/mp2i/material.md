@@ -21,7 +21,7 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 
   <div style="margin:10px 0 0 28px;">
   <ul>
-    <li>📄 <a href="{{ '/files/mp2i/ocaml/Tutoriel.pdf' | relative_url }}">Tutoriel (PDF)</a></li>
+    <li>📄 <a href="{{ '/files/mp2i/Tutoriel.pdf' | relative_url }}">Tutoriel (PDF)</a></li>
   </ul>
 </div>
 </details>
