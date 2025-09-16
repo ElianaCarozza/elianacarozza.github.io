@@ -12,7 +12,19 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 📄 De nouveaux fichiers PDF seront ajoutés progressivement au fil de l’année.
 
 ---
+<!-- Cartella 1: Tutoriel pour VS Code -->
+<details>
+  <summary>
+    <span style="font-size: 30px;">🚀 <strong>Tutoriel pour VS Code</strong></span>
+    &nbsp;&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;"></a>
+  </summary>
 
+  <div style="margin:10px 0 0 28px;">
+  <ul>
+    <li>📄 <a href="{{ '/files/mp2i/ocaml/Tutoriel.pdf' | relative_url }}">Tutoriel (PDF)</a></li>
+  </ul>
+</div>
+</details>
 
 <!-- Cartella 1: OCaml (🐫 cammello) -->
 <details>
