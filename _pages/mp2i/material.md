@@ -16,7 +16,7 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 <details>
   <summary>
     <span style="font-size: 30px;">🚀 <strong>Tutoriel pour VS Code</strong></span>
-    &nbsp;&nbsp;<a href="ocaml/" style="font-size:14px; text-decoration:none;"></a>
+    &nbsp;&nbsp;<a href="tut/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
   <div style="margin:10px 0 0 28px;">
