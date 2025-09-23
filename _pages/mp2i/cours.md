@@ -11,14 +11,14 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ---
 ## 🖋️ Architecture et système
-- Architecture et système - Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/1C.pdf)
-- Architecture et système - Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/2C.pdf)
+- Architecture et système - Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/1C.pdf) ✔️
+- Architecture et système - Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/2C.pdf) ✔️
   
 ## 💻 Programmation : OCaml
 - Premiers pas avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/3C.pdf)
-- Données structurées en OCaml : [📄 PDF ](#)
-- Récursivité en OCaml : [📄 PDF ](#)
-- Polymorphisme et ordre supérieur avec OCaml : [📄 PDF ](#)
+- Données structurées en OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/4C.pdf)
+- Récursivité en OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/5C.pdf)
+- Polymorphisme et ordre supérieur avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/6C.pdf)
 
 ## 💻 Programmation : C
 - Premiers pas avec C : [📄 PDF ](#)
