@@ -12,11 +12,11 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 
 ---
 #### 🖋️ Architecture et système 
-- [📄 TD1 ](https://elianacarozza.github.io/files/mp2i/1TD.pdf)
-- [📄 TD2 ](https://elianacarozza.github.io/files/mp2i/2TD.pdf) -  [📄 TP2 ](https://elianacarozza.github.io/files/mp2i/2TP.pdf) -  [📄 DM2 ](https://elianacarozza.github.io/files/mp2i/2DM.pdf) 
+- [📄 TD1 ](https://elianacarozza.github.io/files/mp2i/1TD.pdf) ✔️
+- [📄 TD2 ](https://elianacarozza.github.io/files/mp2i/2TD.pdf) ✔️ -  [📄 TP2 ](https://elianacarozza.github.io/files/mp2i/2TP.pdf) ✔️ -  [📄 DM2 ](https://elianacarozza.github.io/files/mp2i/2DM.pdf) ✔️
 
 #### 💻 Programmation- OCaml 
-- [📄 PDF ](#)
+- [📄 TD1 ](https://elianacarozza.github.io/files/mp2i/3TD.pdf)
 
 #### 💻 Programmation- C
 - [📄 PDF ](#)
