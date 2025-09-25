@@ -15,7 +15,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Architecture et système - Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/2C.pdf) ✔️
   
 ## 💻 Programmation : OCaml
-- Premiers pas avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/3C.pdf)
+- Premiers pas avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/3C.pdf) ✔️
 - Données structurées en OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/4C.pdf)
 - Récursivité en OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/5C.pdf)
 - Polymorphisme et ordre supérieur avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/6C.pdf)
