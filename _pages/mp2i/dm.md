@@ -73,7 +73,7 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <td><strong>DM 1</strong></td>
       <td class="subject-cell">28/09/25</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/2DM.pdf">PDF</a></td>
-      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/2DM_CORRECTION.pages">--</a></td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/2DM_CORRECTION.pages">PDF</a></td>
     </tr>
     <tr>
       <td><strong>DM 2</strong></td>
