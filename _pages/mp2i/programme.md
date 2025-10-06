@@ -97,10 +97,10 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     </tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Architecture et système</td><td>Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation </td><td>2.1, 2.2 </td><td></td></tr>
-    <tr><td>2</td><td>Architecture et système</td><td>Système d’exploitation </td><td>2.3 </td><td></td></tr>
-    <tr><td>3</td><td>Programmation : OCaml</td><td>Premiers pas avec OCaml</td><td>3.1</td><td></td></tr>
-    <tr><td>4</td><td>Programmation : OCaml</td><td>Données structurées en OCaml</td><td>3.2</td><td></td></tr>
+    <tr><td>1</td><td>Architecture et système</td><td>Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation </td><td>2.1, 2.2 </td><td>✔️</td></tr>
+    <tr><td>2</td><td>Architecture et système</td><td>Système d’exploitation </td><td>2.3 </td><td> ✔️ -DM </td></tr>
+    <tr><td>3</td><td>Programmation : OCaml</td><td>Premiers pas avec OCaml</td><td>3.1</td><td> ✔️ </td></tr>
+    <tr><td>4</td><td>Programmation : OCaml</td><td>Données structurées en OCaml</td><td>3.2</td><td>✔️</td></tr>
     <tr><td>5</td><td>Programmation : OCaml</td><td>Récursivité en OCaml</td><td>3.3</td><td></td></tr>
     <tr><td>6</td><td>Programmation : OCaml</td><td>Polymorphisme et ordre supérieur avec OCaml</td><td>3.4, 3.5</td><td></td></tr>
     <tr><td>7</td><td>Programmation : OCaml</td><td>Traits impératifs</td><td>3.6</td><td></td></tr>
