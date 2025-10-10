@@ -77,14 +77,14 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
     </tr>
     <tr>
       <td><strong>DM 2</strong></td>
-      <td class="subject-cell">--/--/--</td>
-      <td class="subject-cell"><a href="#">--</a></td>
+      <td class="subject-cell">25/10/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/6DM.pdf">PDF</a></td>
       <td class="subject-cell"><a href="#">--</a></td>
     </tr>
     <tr>
       <td><strong>DM 3</strong></td>
-      <td class="subject-cell">--/--/--</td>
-      <td class="subject-cell"><a href="#">--</a></td>
+      <td class="subject-cell">01/11/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/6DM2.pdf">PDF</a></td>
       <td class="subject-cell"><a href="#">--</a></td>
     </tr>
     <tr>
