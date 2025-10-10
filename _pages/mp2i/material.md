@@ -81,7 +81,7 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 
  <div style="margin:10px 0 0 28px;">
   <ul>
-   <li>📄 <a href="https:/elianacarozza.github.io/files/mp2i/Ex_OCaml.pdf" target="_blank"> Exercices OCaml </a></li>
+   <li>📄 <a href="https://elianacarozza.github.io/files/mp2i/Ex_OCaml.pdf" target="_blank"> Exercices OCaml </a></li>
   </ul>
 </div>
 </details>
