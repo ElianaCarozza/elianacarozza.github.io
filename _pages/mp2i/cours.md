@@ -11,16 +11,18 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ---
 ## 🖋️ Architecture et système
-- Architecture et système - Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/1C.pdf) ✔️
-- Architecture et système - Système d’exploitation :[📄 PDF ](https://elianacarozza.github.io/files/mp2i/2C.pdf) ✔️
+- Architecture et système - Arithmétique des ordinateurs, Modèle de Von Neumann, Système d’exploitation :
+  <a href="https://elianacarozza.github.io/files/mp2i/1C.pdf" target="_blank"> PDF </a> ✔️
+- Architecture et système - Système d’exploitation :
+  <a href="https://elianacarozza.github.io/files/mp2i/2C.pdf" target="_blank"> PDF </a> ✔️
   
 ## 💻 Programmation : OCaml
-- Premiers pas avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/3C.pdf) ✔️
-- Données structurées en OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/4C.pdf) ✔️
-- Récursivité en OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/5C.pdf) ✔️
-- Polymorphisme et ordre supérieur avec OCaml : [📄 PDF ](https://elianacarozza.github.io/files/mp2i/5C2.pdf) ✔️
-- Traits impératifs [📄 PDF ](https://elianacarozza.github.io/files/mp2i/6C.pdf)
-
+- Premiers pas avec OCaml : <a href="https://elianacarozza.github.io/files/mp2i/3C.pdf" target="_blank"> PDF </a> ✔️
+- Données structurées en OCaml : <a href="https://elianacarozza.github.io/files/mp2i/4C.pdf" target="_blank"> PDF </a> ✔️
+- Récursivité en OCaml : <a href="https://elianacarozza.github.io/files/mp2i/5C.pdf" target="_blank"> PDF </a> ✔️
+- Polymorphisme et ordre supérieur avec OCaml : <a href="https://elianacarozza.github.io/files/mp2i/5C2.pdf" target="_blank"> PDF </a> ✔️
+- Traits impératifs <a href="https://elianacarozza.github.io/files/mp2i/6C.pdf" target="_blank"> PDF </a> 
+  
 ## 💻 Programmation : C
 - Premiers pas avec C : [📄 PDF ](#)
 - Pointeurs, tableaux, structures en C : [📄 PDF ](#)
