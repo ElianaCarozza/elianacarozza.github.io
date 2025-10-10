@@ -70,7 +70,7 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
   </ul>
 </div>
 </details>
-
+ 
 
 <!-- Cartella 4: Exercices (📝 foglio di esercizi) -->
 <details>
@@ -79,8 +79,9 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
     &nbsp;&nbsp;<a href="exercices/" style="font-size:14px; text-decoration:none;"></a>
   </summary>
 
-  <div style="margin:10px 0 0 28px;">
-    <ul>
-    </ul>
-  </div>
+ <div style="margin:10px 0 0 28px;">
+  <ul>
+   <li>📄 <a href="https:/elianacarozza.github.io/files/mp2i/Ex_OCaml.pdf" target="_blank"> Exercices OCaml </a></li>
+  </ul>
+</div>
 </details>
