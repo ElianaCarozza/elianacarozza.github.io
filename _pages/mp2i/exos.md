@@ -12,12 +12,17 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 
 ---
 #### 🖋️ Architecture et système 
-- [📄 TD ](https://elianacarozza.github.io/files/mp2i/1TD.pdf) ✔️
-- [📄 TD ](https://elianacarozza.github.io/files/mp2i/2TD.pdf) ✔️ -  [📄 TP ](https://elianacarozza.github.io/files/mp2i/2TP.pdf) ✔️ -  [📄 DM ](https://elianacarozza.github.io/files/mp2i/2DM.pdf) ✔️
+- <a href="https://elianacarozza.github.io/files/mp2i/1TD.pdf" target="_blank"> 📄 TD </a> ✔️
+-  <a href="https://elianacarozza.github.io/files/mp2i/2TD.pdf" target="_blank"> 📄 TD </a> ✔️
+    <a href="https://elianacarozza.github.io/files/mp2i/2TP.pdf" target="_blank"> 📄 TP </a> ✔️
+   <a href="https://elianacarozza.github.io/files/mp2i/2DM.pdf" target="_blank"> 📄 DM </a> ✔️  
+
 
 #### 💻 Programmation- OCaml 
-- [📄 TD ](https://elianacarozza.github.io/files/mp2i/3TD.pdf) ✔️
-- [📄 TD ](https://elianacarozza.github.io/files/mp2i/4TD.pdf) 
+- <a href="https://elianacarozza.github.io/files/mp2i/3TD.pdf" target="_blank"> 📄 TD </a> ✔️
+- <a href="https://elianacarozza.github.io/files/mp2i/4TD.pdf" target="_blank"> 📄 TD </a> ✔️
+  <a href="https://elianacarozza.github.io/files/mp2i/5DM.pdf" target="_blank"> 📄 DM </a> 
+- <a href="https://elianacarozza.github.io/files/mp2i/6TD.pdf" target="_blank"> 📄 TD </a>   - <a href="https://elianacarozza.github.io/files/mp2i/6DM.pdf" target="_blank"> 📄 DM </a> 
 
 #### 💻 Programmation- C
 - [📄 PDF ](#)
