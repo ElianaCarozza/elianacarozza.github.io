@@ -25,8 +25,8 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 - <a href="https://elianacarozza.github.io/files/mp2i/6TD.pdf" target="_blank"> 📄 TD </a> ✔️  - <a href="https://elianacarozza.github.io/files/mp2i/6DM.pdf" target="_blank"> 📄 DM </a> ✔️
 
 #### 💻 Programmation- C
-- <a href="https://elianacarozza.github.io/files/mp2i/7TD.pdf" target="_blank"> 📄 TD </a> 
-    <a href="https://elianacarozza.github.io/files/mp2i/7TP.pdf" target="_blank"> 📄 TP </a> 
+- <a href="https://elianacarozza.github.io/files/mp2i/7TD.pdf" target="_blank"> 📄 TD </a> ✔️
+    <a href="https://elianacarozza.github.io/files/mp2i/7TP.pdf" target="_blank"> 📄 TP </a> ✔️
 
 #### 🧠 Bonnes pratiques et raisonnement
 - [📄 PDF ](#)
