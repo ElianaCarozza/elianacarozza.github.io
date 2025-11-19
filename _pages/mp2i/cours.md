@@ -25,8 +25,8 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
   
 ## 💻 Programmation : C
 - Premiers pas avec C : <a href="https://elianacarozza.github.io/files/mp2i/7C.pdf" target="_blank"> PDF </a> ✔️
-- Pointeurs, tableaux, structures en C : <a href="https://elianacarozza.github.io/files/mp2i/8C.pdf" target="_blank"> PDF </a> 
-- Entrées-sorties et modularité avec C : <a href="https://elianacarozza.github.io/files/mp2i/9C.pdf" target="_blank"> PDF </a> 
+- Pointeurs, tableaux, structures en C : <a href="https://elianacarozza.github.io/files/mp2i/8C.pdf" target="_blank"> PDF </a> ✔️
+- Entrées-sorties et modularité avec C : <a href="https://elianacarozza.github.io/files/mp2i/9C.pdf" target="_blank"> PDF </a> ✔️
 - Comparaison de C et OCaml : <a href="https://elianacarozza.github.io/files/mp2i/10C.pdf" target="_blank"> PDF </a> 
 
 ## 🧠 Bonnes pratiques et raisonnement
