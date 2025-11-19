@@ -89,8 +89,8 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
     </tr>
     <tr>
       <td><strong>DM 4</strong></td>
-      <td class="subject-cell">--/--/--</td>
-      <td class="subject-cell"><a href="#">--</a></td>
+      <td class="subject-cell">28/11/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/9DM.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a href="#">--</a></td>
     </tr>
   </tbody>
