@@ -31,7 +31,7 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
     <a href="https://elianacarozza.github.io/files/mp2i/8TP.pdf" target="_blank"> 📄 TP </a> ✔️
 - <a href="https://elianacarozza.github.io/files/mp2i/9TP.pdf" target="_blank"> 📄 TD </a> ✔️   <a href="https://elianacarozza.github.io/files/mp2i/9DM.pdf" target="_blank"> 📄 DM </a> ✔️
 - <a href="https://elianacarozza.github.io/files/mp2i/10TD.pdf" target="_blank"> 📄 TD </a> 
-    <a href="https://elianacarozza.github.io/files/mp2i/10TP.pdf" target="_blank"> 📄 TP </a> 
+    <a href="https://elianacarozza.github.io/files/mp2i/10T.pdf" target="_blank"> 📄 TP </a> 
 
 #### 🧠 Bonnes pratiques et raisonnement
 - [📄 PDF ](#)
