@@ -31,7 +31,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ## 🧠 Bonnes pratiques et raisonnement
 - Bonnes pratiques de programmation : <a href="https://elianacarozza.github.io/files/mp2i/11C.pdf" target="_blank"> PDF </a> 
-- Correction, terminaison, complexité : [📄 PDF ](#)
+- Correction, terminaison, complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> 
 - Induction structurelle, cas d’étude : [📄 PDF ](#)
 
 ## 🧱 Structures de données
