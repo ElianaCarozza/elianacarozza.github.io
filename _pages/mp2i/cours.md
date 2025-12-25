@@ -30,9 +30,8 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Comparaison de C et OCaml : <a href="https://elianacarozza.github.io/files/mp2i/10C.pdf" target="_blank"> PDF </a> ✔️
 
 ## 🧠 Bonnes pratiques et raisonnement
-- Bonnes pratiques de programmation : <a href="https://elianacarozza.github.io/files/mp2i/11C.pdf" target="_blank"> PDF </a> 
-- Correction, terminaison, complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> 
-- Induction structurelle, cas d’étude : [📄 PDF ](#)
+- Bonnes pratiques de programmation : <a href="https://elianacarozza.github.io/files/mp2i/11C.pdf" target="_blank"> PDF </a> ✔️
+- Correction, terminaison, complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> ✔️
 
 ## 🧱 Structures de données
 - Types et abstraction : [📄 PDF ](#)
