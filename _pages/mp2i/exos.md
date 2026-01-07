@@ -33,11 +33,11 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 - <a href="https://elianacarozza.github.io/files/mp2i/10TD.pdf" target="_blank"> 📄 TD </a> ✔️
     <a href="https://elianacarozza.github.io/files/mp2i/10TP.pdf" target="_blank"> 📄 TP </a> ✔️
 
-#### 🔢 Logique
-- <a href="https://elianacarozza.github.io/files/mp2i/14TP.pdf" target="_blank"> 📄 TP </a> ✔️
-  
 #### 🧠 Bonnes pratiques et raisonnement
 - <a href="https://elianacarozza.github.io/files/mp2i/11TD.pdf" target="_blank"> 📄 TD </a> ✔️
+  
+#### 🔢 Logique
+- <a href="https://elianacarozza.github.io/files/mp2i/14TP.pdf" target="_blank"> 📄 TP </a> ✔️
 
 #### 🧱 Structures de données
 - [📄 PDF ](#)
