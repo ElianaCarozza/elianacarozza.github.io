@@ -33,6 +33,11 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Bonnes pratiques de programmation : <a href="https://elianacarozza.github.io/files/mp2i/11C.pdf" target="_blank"> PDF </a> ✔️
 - Correction, terminaison, complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> ✔️
 
+## 🔢 Logique
+- Logique propositionnelle (partie 1) : <a href="https://elianacarozza.github.io/files/mp2i/14C.pdf" target="_blank"> PDF </a> 
+- SAT : [📄 PDF ](#)
+- Logique du premier ordre : [📄 PDF ](#)
+
 ## 🧱 Structures de données
 - Types et abstraction : [📄 PDF ](#)
 - Structures de données séquentielles : [📄 PDF ](#)
@@ -51,12 +56,6 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Programmation dynamique : [📄 PDF ](#)
 - Algorithmique des textes (partie 1) : [📄 PDF ](#)
 - Algorithmique des textes (partie 2) : [📄 PDF ](#)
-
-## 🔢 Logique
-- Logique propositionnelle (partie 1) : [📄 PDF ](#)
-- Logique propositionnelle (partie 2) : [📄 PDF ](#)
-- SAT : [📄 PDF ](#)
-- Logique du premier ordre : [📄 PDF ](#)
 
 ## 🗃️ Bases de données - SQL
 - Modèles entité-association et relationnel : [📄 PDF ](#)
