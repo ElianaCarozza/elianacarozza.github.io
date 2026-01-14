@@ -35,7 +35,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ## 🔢 Logique
 - Logique propositionnelle : <a href="https://elianacarozza.github.io/files/mp2i/14C.pdf" target="_blank"> PDF </a> ✔️
-- SAT : <a href="https://elianacarozza.github.io/files/mp2i/15C (1).pdf" target="_blank"> PDF </a> ✔️
+- SAT : <a href="https://elianacarozza.github.io/files/mp2i/15C (2).pdf" target="_blank"> PDF </a> ✔️
 - Logique du premier ordre : [📄 PDF ](#)
 
 ## 🧱 Structures de données
