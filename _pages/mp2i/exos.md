@@ -41,7 +41,7 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 - <a href="https://elianacarozza.github.io/files/mp2i/15TP.pdf" target="_blank"> 📄 TP </a> ✔️
   <a href="https://elianacarozza.github.io/files/mp2i/15TD.pdf" target="_blank"> 📄 TD </a> ✔️
 - <a href="https://elianacarozza.github.io/files/mp2i/16TP.pdf" target="_blank"> 📄 TP </a> ✔️
-- <a href="https://elianacarozza.github.io/files/mp2i/17TP.pdf" target="_blank"> 📄 TP </a> ✔️
+- <a href="https://elianacarozza.github.io/files/mp2i/17TP.pdf" target="_blank"> 📄 TP </a> 
   
 #### 🧱 Structures de données
 - [📄 PDF ](#)
