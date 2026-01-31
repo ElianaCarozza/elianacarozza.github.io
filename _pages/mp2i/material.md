@@ -86,6 +86,11 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 </div>
 <div style="margin:10px 0 0 28px;">
   <ul>
+   <li>📄 <a href="https://elianacarozza.github.io/files/mp2i/BoolEx.pdf" target="_blank"> Logique (Ilias) </a></li>
+  </ul>
+</div>
+<div style="margin:10px 0 0 28px;">
+  <ul>
    <li>📄 <a href="https://www2.compute.dtu.dk/courses/02110/2022/weekplans/amortized22.pdf" target="_blank"> Coût amorti 1</a></li>
   </ul>
 </div>
