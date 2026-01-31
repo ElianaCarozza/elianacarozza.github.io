@@ -91,17 +91,10 @@ Vous y trouverez notamment des supports pour OCaml🐫, C💻et SQL🗄️ , ain
 </div>
 <div style="margin:10px 0 0 28px;">
   <ul>
-   <li>📄 <a href="https://www2.compute.dtu.dk/courses/02110/2022/weekplans/amortized22.pdf" target="_blank"> Coût amorti 1</a></li>
-  </ul>
-</div>
-<div style="margin:10px 0 0 28px;">
-  <ul>
-   <li>📄 <a href="https://www.dcc.fc.up.pt/~pribeiro/aulas/alg1819/ex04.pdf" target="_blank"> Coût amorti 2</a></li>
-  </ul>
-</div>
-<div style="margin:10px 0 0 28px;">
-  <ul>
-   <li>📄 <a href="https://graal.ens-lyon.fr/~yrobert/algoL3/5-amortized.pdf" target="_blank"> Coût amorti 3</a></li>
+   <li>📄 <a href="https://www2.compute.dtu.dk/courses/02110/2022/weekplans/amortized22.pdf" target="_blank"> Coût amorti 1</a>   
+       📄<a href="https://www.dcc.fc.up.pt/~pribeiro/aulas/alg1819/ex04.pdf" target="_blank"> Coût amorti 2</a>
+       📄 <a href="https://graal.ens-lyon.fr/~yrobert/algoL3/5-amortized.pdf" target="_blank"> Coût amorti 3</a>
+   </li>
   </ul>
 </div>
 </details>
