@@ -93,6 +93,24 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/9DM.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a href="#">--</a></td>
     </tr>
+        <tr>
+      <td><strong>DM 5</strong></td>
+      <td class="subject-cell">12/12/25</td>
+      <td class="subject-cell"><a href="#">--</a></td>
+      <td class="subject-cell"><a href="#">--</a></td>
+    </tr>
+        <tr>
+      <td><strong>DM 6</strong></td>
+      <td class="subject-cell">07/02/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a href="#">--</a></td>
+    </tr>
+        <tr>
+      <td><strong>DM 7</strong></td>
+      <td class="subject-cell">28/02/26</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a href="#">--</a></td>
+    </tr>
   </tbody>
 </table>
 
