@@ -40,7 +40,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Logique circuits : <a href="https://elianacarozza.github.io/files/mp2i/17C_1.pdf" target="_blank"> PDF </a> 
 
 ## 🧱 Structures de données
-- Types et abstraction : [📄 PDF ](#)
+- Logique circuits : <a href="https://elianacarozza.github.io/files/mp2i/17C_2.pdf" target="_blank"> PDF </a> 
 - Structures de données séquentielles : [📄 PDF ](#)
 - Structures de données hiérarchiques : [📄 PDF ](#)
 - Structures de données hiérarchiques, Ensembles : [📄 PDF ](#)
