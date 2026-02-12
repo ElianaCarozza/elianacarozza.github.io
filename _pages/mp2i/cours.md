@@ -41,8 +41,8 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ## 🧱 Structures de données
 - Types et abstraction : <a href="https://elianacarozza.github.io/files/mp2i/17C_2.pdf" target="_blank"> PDF </a> ✔️
-- Structures de données séquentielles :  <a href="https://elianacarozza.github.io/files/mp2i/18C.pdf" target="_blank"> PDF </a> 
-- Structures de données hiérarchiques : [📄 PDF ](#)
+- Structures de données séquentielles :  <a href="https://elianacarozza.github.io/files/mp2i/18C.pdf" target="_blank"> PDF </a> ✔️
+- Structures de données hiérarchiques : <a href="https://elianacarozza.github.io/files/mp2i/19C.pdf" target="_blank"> PDF </a> ✔️
 
 ## 🕸️ Graphes
 - Définitions et représentation : [📄 PDF ](#)
