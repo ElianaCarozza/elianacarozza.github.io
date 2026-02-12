@@ -115,9 +115,9 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     <tr><td>14 ✔️</td><td>Logique</td><td>Logique propositionnelle</td><td>10.1</td><td></td></tr>
     <tr><td>15 ✔️</td><td>Logique</td><td>SAT</td><td>10.2</td><td></td></tr>
     <tr><td>16 ✔️ </td><td>Logique</td><td>Logique du premier ordre</td><td>10.3</td><td></td></tr>
-    <tr><td>17 </td><td>Structures de données</td><td>Types et abstraction</td><td>7.1</td><td></td></tr>
-    <tr><td>18 </td><td>Structures de données</td><td>Structures de données séquentielles</td><td>7.2</td><td></td></tr>
-    <tr><td>19</td><td>Structures de données</td><td>Structures hiérarchiques, Ensembles</td><td>7.3, 7.4</td><td></td></tr>
+    <tr><td>17 ✔️ </td><td>Structures de données</td><td>Types et abstraction</td><td>7.1</td><td></td></tr>
+    <tr><td>18 ✔️ </td><td>Structures de données</td><td>Structures de données séquentielles</td><td>7.2</td><td></td></tr>
+    <tr><td>19 ✔️ </td><td>Structures de données</td><td>Structures hiérarchiques </td><td>7.3 </td><td></td></tr>
     <tr><td></td><td></td><td></td><td></td><td></td></tr>
     <tr><td>20</td><td>Graphes</td><td>Définitions et représentation</td><td>8.1, 8.2</td><td></td></tr>
     <tr><td>21</td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td>-DM</td></tr>
