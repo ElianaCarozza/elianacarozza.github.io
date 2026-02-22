@@ -80,3 +80,8 @@ Voici une sélection de sujets et rapports des concours des années précédente
 
 S’il en manque certains, n’hésitez pas à me le signaler pour que je puisse les ajouter ici pour vos camarades également. 
 
+---
+
+Vous trouverez ici un PDF récapitulant les notions et automatismes à maîtriser parfaitement pour l’oral d’informatique.
+D’ici la fin de l’année, je proposerai des colles dans l’esprit de l’oral.
+<a href="https://elianacarozza.github.io/files/mp2i/importante.pdf" target="_blank"> PDF </a> 
