@@ -1,6 +1,6 @@
 ---
 layout: mp2i
-title: "Devoir maison"
+title: "Devoir"
 permalink: /mp2i/dm/
 ---
 
