@@ -91,7 +91,7 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <td><strong>DM 4</strong></td>
       <td class="subject-cell">28/11/25</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/9DM.pdf" target="_blank">PDF</a></td>
-      <td class="subject-cell"><a href="#">--</a></td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/9DM_CORRECTION.pdf" target="_blank">PDF</a></td>
     </tr>
         <tr>
       <td><strong>DM 5</strong></td>
@@ -103,14 +103,53 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <td><strong>DM 6</strong></td>
       <td class="subject-cell">07/02/25</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM.pdf" target="_blank">PDF</a></td>
-      <td class="subject-cell"><a href="#">--</a></td>
-    </tr>
-        <tr>
-      <td><strong>DM 7</strong></td>
-      <td class="subject-cell">28/02/26</td>
-      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM.pdf" target="_blank">PDF</a></td>
-      <td class="subject-cell"><a href="#">--</a></td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM_CORRECTION.pdf" target="_blank">PDF</a></td>
     </tr>
   </tbody>
 </table>
 
+---
+# 👩‍💻 Devoirs sur table
+
+Dans cette section seront ajoutés progressivement les **devoirs sur table (DS)** du cours d'informatique.
+
+📌 **Un devoir sera proposé environ toutes les deux mois.**  
+📊 Chaque devoir sera **évalué** et donnera lieu à une **note individuelle**.
+
+<table class="concours-table">
+  <thead>
+    <tr>
+      <th>DS</th>
+      <th>Date</th>
+      <th>Énoncé</th>
+      <th>Correction</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td><strong>DS 1</strong></td>
+      <td class="subject-cell">08/12/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/1DS.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td><strong>DS 2</strong></td>
+      <td class="subject-cell">12/01/26</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/2DS.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td><strong>DS 3</strong></td>
+      <td class="subject-cell">10/03/26</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/3DS.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a target="_blank">PDF</a></td>
+    </tr>
+   
+  </tbody>
+</table>
+
+
+
+
+---
