@@ -45,8 +45,8 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Structures de données hiérarchiques : <a href="https://elianacarozza.github.io/files/mp2i/19C.pdf" target="_blank"> PDF </a> ✔️
 
 ## 🕸️ Graphes
-- Définitions et représentation : [📄 PDF ](#)
-- Algorithmique des graphes (partie 1) : [📄 PDF ](#)
+- Définitions et représentation :  <a href="https://elianacarozza.github.io/files/mp2i/20C.pdf" target="_blank"> PDF </a> ✔️
+- Algorithmique des graphes (partie 1) :  <a href="https://elianacarozza.github.io/files/mp2i/21C_1.pdf" target="_blank"> PDF </a> ✔️
 - Algorithmique des graphes (partie 2) : [📄 PDF ](#)
 
 ## ⚙️ Algorithmique
