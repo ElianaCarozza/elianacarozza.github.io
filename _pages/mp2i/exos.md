@@ -49,7 +49,7 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 - <a href="https://elianacarozza.github.io/files/mp2i/19TD.pdf" target="_blank"> 📄 TP </a> ✔️
 
 #### 🕸️ Graphes
-- [📄 PDF ](#)
+- <a href="https://elianacarozza.github.io/files/mp2i/21TD.pdf" target="_blank"> PDF </a> ✔️
 
 #### ⚙️ Algorithmique
 - [📄 PDF ](#)
