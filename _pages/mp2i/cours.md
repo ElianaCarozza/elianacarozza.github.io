@@ -58,7 +58,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Algorithmique des textes (partie 2) : [📄 PDF ](#)
 
 ## 🗃️ Bases de données - SQL
-- <a href="https://elianacarozza.github.io/files/mp2i/22C.pdf" target="_blank"> 📄 PDF </a> ✔️
+- Modèles entité-association et relationnel : <a href="https://elianacarozza.github.io/files/mp2i/22C.pdf" target="_blank"> 📄 PDF </a> ✔️
 - Requêtes SQL (partie 1) : [📄 PDF ](#)
 - Requêtes SQL (partie 2) : [📄 PDF ](#)
 
