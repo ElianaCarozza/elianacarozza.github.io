@@ -105,6 +105,19 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/17DM_CORRECTION.pdf" target="_blank">PDF</a></td>
     </tr>
+    <tr>
+      <td><strong>DM 7</strong></td>
+      <td class="subject-cell">07/02/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/18DM.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/18DM_CORRECTION.pdf" target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td><strong>DM 6</strong></td>
+      <td class="subject-cell">07/02/25</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/19DM.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/19DM_CORRECTION.pdf" target="_blank">PDF</a></td>
+    </tr>
+
   </tbody>
 </table>
 
@@ -143,6 +156,12 @@ Dans cette section seront ajoutés progressivement les **devoirs sur table (DS)*
       <td><strong>DS 3</strong></td>
       <td class="subject-cell">10/03/26</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/3DS.pdf" target="_blank">PDF</a></td>
+      <td class="subject-cell"><a target="_blank">PDF</a></td>
+    </tr>
+    <tr>
+      <td><strong>DS extra</strong></td>
+      <td class="subject-cell">10/03/26</td>
+      <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/extraDS.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a target="_blank">PDF</a></td>
     </tr>
    
