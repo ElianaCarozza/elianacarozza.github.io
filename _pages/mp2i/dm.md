@@ -107,13 +107,13 @@ Les fichiers PDF des énoncés (et parfois de documents complémentaires) seront
     </tr>
     <tr>
       <td><strong>DM 7</strong></td>
-      <td class="subject-cell">07/02/25</td>
+      <td class="subject-cell">04/04/25</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/18DM.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/18DM_CORRECTION.pdf" target="_blank">PDF</a></td>
     </tr>
     <tr>
       <td><strong>DM 6</strong></td>
-      <td class="subject-cell">07/02/25</td>
+      <td class="subject-cell">11/04/25</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/19DM.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/19DM_CORRECTION.pdf" target="_blank">PDF</a></td>
     </tr>
