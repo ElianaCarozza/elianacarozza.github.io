@@ -160,7 +160,7 @@ Dans cette section seront ajoutés progressivement les **devoirs sur table (DS)*
     </tr>
     <tr>
       <td><strong>DS extra</strong></td>
-      <td class="subject-cell">10/03/26</td>
+      <td class="subject-cell">08/04/26</td>
       <td class="subject-cell"><a href="https://elianacarozza.github.io/files/mp2i/extraDS.pdf" target="_blank">PDF</a></td>
       <td class="subject-cell"><a target="_blank">PDF</a></td>
     </tr>
