@@ -49,6 +49,10 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Algorithmique des graphes (partie 1) :  <a href="https://elianacarozza.github.io/files/mp2i/21C_1.pdf" target="_blank"> PDF </a> ✔️
 - Algorithmique des graphes (partie 2) : <a href="https://elianacarozza.github.io/files/mp2i/21C_2.pdf" target="_blank"> PDF </a> ✔️
 
+## 🗃️ Bases de données - SQL
+- Modèles entité-association et relationnel : <a href="https://elianacarozza.github.io/files/mp2i/22C.pdf" target="_blank"> 📄 PDF </a> ✔️
+- Requêtes SQL : <a href="https://elianacarozza.github.io/files/mp2i/23C.pdf" target="_blank"> 📄 PDF </a> ✔️
+
 ## ⚙️ Algorithmique
 - Algorithmique arithmétique : [📄 PDF ](#)
 - Retour sur trace et algorithme glouton : [📄 PDF ](#)
@@ -57,8 +61,4 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Algorithmique des textes (partie 1) : [📄 PDF ](#)
 - Algorithmique des textes (partie 2) : [📄 PDF ](#)
 
-## 🗃️ Bases de données - SQL
-- Modèles entité-association et relationnel : <a href="https://elianacarozza.github.io/files/mp2i/22C.pdf" target="_blank"> 📄 PDF </a> ✔️
-- Requêtes SQL (partie 1) : [📄 PDF ](#)
-- Requêtes SQL (partie 2) : [📄 PDF ](#)
 
