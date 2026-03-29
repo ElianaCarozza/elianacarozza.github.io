@@ -119,18 +119,17 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     <tr><td>18 ✔️ </td><td>Structures de données</td><td>Structures de données séquentielles</td><td>7.2</td><td></td></tr>
     <tr><td>19 ✔️ </td><td>Structures de données</td><td>Structures hiérarchiques </td><td>7.3 </td><td> DM ✔️ </td></tr>
     <tr><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>20</td><td>Graphes</td><td>Définitions et représentation</td><td>8.1, 8.2</td><td></td></tr>
-    <tr><td>21</td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td>-DM</td></tr>
-    <tr><td>22</td><td>Algorithmique</td><td>Algorithmique arithmétique</td><td>9.1</td><td></td></tr>
-    <tr><td>23</td><td>Algorithmique</td><td>Retour sur trace et algorithme glouton</td><td>9.2, 9.3</td><td></td></tr>
-    <tr><td>24</td><td>Algorithmique</td><td>Diviser pour régner</td><td>9.4</td><td>-DM</td></tr>
-    <tr><td>25</td><td>Algorithmique</td><td>Programmation dynamique</td><td>9.4</td><td></td></tr>
+    <tr><td>20 ✔️ </td><td>Graphes</td><td>Définitions et représentation</td><td>8.1, 8.2</td><td></td></tr>
+    <tr><td>21 ✔️ </td><td>Graphes</td><td>Algorithmique des graphes</td><td>8.3</td><td>-DM</td></tr>
+    <tr><td>22 ✔️ </td><td>SQL</td><td>Modèles entité-association et relationnel</td><td>11.1, 11.2</td><td></td></tr>
+    <tr><td>23 ✔️ </td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td></tr>
+    <tr><td>24 ✔️ </td><td>SQL</td><td>Exercitation </td><td></td><td></td></tr>
     <tr><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>26</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td></tr>
-    <tr><td>27</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td>-DM</td></tr>
-    <tr><td>28</td><td>SQL</td><td>Modèles entité-association et relationnel</td><td>11.1, 11.2</td><td></td></tr>
-    <tr><td>29</td><td>SQL</td><td>Requêtes SQL</td><td>11.3</td><td></td></tr>
-    <tr><td>30</td><td>SQL</td><td>Exercitation </td><td></td><td></td></tr>
+    <tr><td>26</td><td>Algorithmique</td><td>Algorithmique arithmétique</td><td>9.1</td><td></td></tr>
+    <tr><td>27</td><td>Algorithmique</td><td>Retour sur trace et algorithme glouton</td><td>9.2, 9.3</td><td></td></tr>
+    <tr><td>28</td><td>Algorithmique</td><td>Diviser pour régner</td><td>9.4</td><td>-DM</td></tr>
+    <tr><td>29</td><td>Algorithmique</td><td>Programmation dynamique</td><td>9.4</td><td></td></tr>
+    <tr><td>30</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td></tr>
   </tbody>
 </table>
 
