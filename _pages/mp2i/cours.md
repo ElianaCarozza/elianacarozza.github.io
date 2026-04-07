@@ -31,7 +31,10 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 
 ## 🧠 Bonnes pratiques et raisonnement
 - Bonnes pratiques de programmation : <a href="https://elianacarozza.github.io/files/mp2i/11C.pdf" target="_blank"> PDF </a> ✔️
-- Correction, terminaison, complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> ✔️
+- Raisonner sur les programmes : <a href="https://elianacarozza.github.io/files/mp2i/25C.pdf" target="_blank"> PDF </a> 
+- Correction : <a href="https://elianacarozza.github.io/files/mp2i/25C-1.pdf" target="_blank"> PDF </a> 
+- Terminaison : <a href="https://elianacarozza.github.io/files/mp2i/25C-2.pdf" target="_blank"> PDF </a> 
+- Complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> ✔️
 
 ## 🔢 Logique
 - Logique propositionnelle : <a href="https://elianacarozza.github.io/files/mp2i/14C.pdf" target="_blank"> PDF </a> ✔️
@@ -54,11 +57,9 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Requêtes SQL : <a href="https://elianacarozza.github.io/files/mp2i/23C.pdf" target="_blank"> 📄 PDF </a> ✔️
 
 ## ⚙️ Algorithmique
-- Algorithmique arithmétique : [📄 PDF ](#)
-- Retour sur trace et algorithme glouton : [📄 PDF ](#)
-- Diviser pour régner : [📄 PDF ](#)
-- Programmation dynamique : [📄 PDF ](#)
-- Algorithmique des textes (partie 1) : [📄 PDF ](#)
-- Algorithmique des textes (partie 2) : [📄 PDF ](#)
+- Algorithmique arithmétique et retour sur trace :  <a href="https://elianacarozza.github.io/files/mp2i/26C.pdf" target="_blank"> PDF </a> 
+- Algorithme glouton et diviser pour régner : <a href="https://elianacarozza.github.io/files/mp2i/27C.pdf" target="_blank"> PDF </a> 
+- Programmation dynamique : <a href="https://elianacarozza.github.io/files/mp2i/28C.pdf" target="_blank"> PDF </a> 
+- Algorithmique des textes (partie 1) : <a href="https://elianacarozza.github.io/files/mp2i/29C.pdf" target="_blank"> PDF </a> 
 
 
