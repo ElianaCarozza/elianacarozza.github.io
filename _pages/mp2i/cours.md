@@ -32,7 +32,7 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 ## 🧠 Bonnes pratiques et raisonnement
 - Bonnes pratiques de programmation : <a href="https://elianacarozza.github.io/files/mp2i/11C.pdf" target="_blank"> PDF </a> ✔️
 - Raisonner sur les programmes : <a href="https://elianacarozza.github.io/files/mp2i/25C.pdf" target="_blank"> PDF </a> ✔️
-- Correction : <a href="https://elianacarozza.github.io/files/mp2i/25C-1.pdf" target="_blank"> PDF </a> ✔️
+- Correction : <a href="https://elianacarozza.github.io/files/mp2i/25C_1.pdf" target="_blank"> PDF </a> ✔️
 - Terminaison : <a href="https://elianacarozza.github.io/files/mp2i/26C.pdf" target="_blank"> PDF </a> ✔️
 - Complexité : <a href="https://elianacarozza.github.io/files/mp2i/12_13C.pdf" target="_blank"> PDF </a> ✔️
 
