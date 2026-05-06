@@ -57,9 +57,9 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Requêtes SQL : <a href="https://elianacarozza.github.io/files/mp2i/23C.pdf" target="_blank"> 📄 PDF </a> ✔️
 
 ## ⚙️ Algorithmique
-- Algorithmique arithmétique et retour sur trace :  <a href="https://elianacarozza.github.io/files/mp2i/26C.pdf" target="_blank"> PDF </a> 
-- Algorithme glouton et diviser pour régner : <a href="https://elianacarozza.github.io/files/mp2i/27C.pdf" target="_blank"> PDF </a> 
-- Programmation dynamique : <a href="https://elianacarozza.github.io/files/mp2i/28C.pdf" target="_blank"> PDF </a> 
-- Algorithmique des textes : <a href="https://elianacarozza.github.io/files/mp2i/29C.pdf" target="_blank"> PDF </a> 
+- Algorithmique arithmétique et retour sur trace :  <a href="https://elianacarozza.github.io/files/mp2i/27C.pdf" target="_blank"> PDF </a> 
+- Algorithme glouton et diviser pour régner : <a href="https://elianacarozza.github.io/files/mp2i/28C.pdf" target="_blank"> PDF </a> 
+- Programmation dynamique : <a href="https://elianacarozza.github.io/files/mp2i/29C.pdf" target="_blank"> PDF </a> 
+- Algorithmique des textes : <a href="https://elianacarozza.github.io/files/mp2i/30C.pdf" target="_blank"> PDF </a> 
 
 
