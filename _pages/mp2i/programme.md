@@ -127,8 +127,8 @@ L’étude sera répartie sur les semaines de cours selon le tableau suivant.
     <tr><td>25 ✔️ </td><td> Algorithmes et programmes </td><td>Terminaison  </td><td> 6.2</td><td></td></tr>
     <tr><td>26 ✔️ </td><td> Algorithmes et programmes </td><td> Correction  </td><td> 6.2</td><td> DM ✔️ </td></tr>
     <tr><td></td><td></td><td></td><td></td><td></td></tr>
-    <tr><td>27</td><td>Algorithmique</td><td>Algorithmique arithmétique, Retour sur trace </td><td>9.1, 9.2</td><td></td></tr>
-    <tr><td>28</td><td>Algorithmique</td><td>Algorithme glouton, Diviser pour régner </td><td>9.3, 9.4</td><td></td></tr>
+    <tr><td>27 ✔️</td><td>Algorithmique</td><td>Algorithmique arithmétique, Retour sur trace </td><td>9.1, 9.2</td><td></td></tr>
+    <tr><td>28 ✔️</td><td>Algorithmique</td><td>Algorithme glouton, Diviser pour régner </td><td>9.3, 9.4</td><td></td></tr>
     <tr><td>29</td><td>Algorithmique</td><td>Programmation dynamique</td><td>9.4</td><td></td></tr>
     <tr><td>30</td><td>Algorithmique</td><td>Algorithmique des textes</td><td>9.5</td><td></td></tr>
   </tbody>
