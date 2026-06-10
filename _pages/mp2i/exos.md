@@ -56,5 +56,3 @@ Vous pourrez les retrouver ici dès qu’ils seront mis en ligne.
 - <a href="https://elianacarozza.github.io/files/mp2i/30TP.pdf" target="_blank"> PDF </a> ✔️
 - <a href="https://elianacarozza.github.io/files/mp2i/31TP.pdf" target="_blank"> PDF </a> ✔️
 
-#### 🗃️ Bases de données- SQL
-- [📄 PDF ](#)
