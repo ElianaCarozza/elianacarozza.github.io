@@ -61,5 +61,6 @@ Vous trouverez ci-dessous l’ensemble des supports PDF des cours, organisés pa
 - Algorithme glouton et diviser pour régner : <a href="https://elianacarozza.github.io/files/mp2i/28C.pdf" target="_blank"> PDF </a> ✔️
 - Programmation dynamique : <a href="https://elianacarozza.github.io/files/mp2i/29C.pdf" target="_blank"> PDF </a> ✔️
 - Algorithmique des textes : <a href="https://elianacarozza.github.io/files/mp2i/30C.pdf" target="_blank"> PDF </a> ✔️
+- Algorithmique des textes : <a href="https://elianacarozza.github.io/files/mp2i/31C.pdf" target="_blank"> PDF </a> ✔️
 
 
